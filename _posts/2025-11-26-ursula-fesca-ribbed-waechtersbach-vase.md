@@ -42,4 +42,6 @@ This vase presents a compact rounded body with evenly moulded ribs and a quiet o
     <span class="figure-caption">top&nbsp;view</span>
 </p>
 
-Ursula Fesca’s Wächtersbach work fits current design trends: warm materials, quiet forms, and honest clay. This ribbed vase works well in Japandi and soft-modern interiors. Find it [in my Etsy shop](https://www.etsy.com/nl/listing/4393065255/wachtersbach-vase-bremen-by-ursula-fesca).
+Ursula Fesca’s Wächtersbach work fits current design trends: warm materials, quiet forms, and honest clay. This ribbed vase works well in Japandi and soft-modern interiors.
+
+Find it [in my Etsy shop](https://www.etsy.com/nl/listing/4393065255/wachtersbach-vase-bremen-by-ursula-fesca).
