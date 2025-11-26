@@ -1,1 +1,32 @@
-title: "My Blog"
+title: "VintageBas"
+description: "Notes on vintage ceramics"
+url: "https://bsdrks.github.io"
+author: "Bas Dirks"
+permalink: /:title/
+lang: en
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme: minima
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Bas Dirks"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+social:
+  etsy: "https://www.etsy.com/shop/VintageBas"
+  vinted: "https://www.vinted.nl/member/306299073"
+  instagram: "https://www.instagram.com/vintagebas"

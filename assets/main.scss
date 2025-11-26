@@ -1,0 +1,105 @@
+---
+# This front matter tells Jekyll to process this file with Sass
+---
+
+@import "minima";
+
+.figure-float-right {
+    float: right;
+    width: 310px;
+    margin: 0 0 1rem 2rem;
+    border-radius: 4px;
+}
+
+@media (max-width: 700px) {
+    .figure-float-right {
+        float: none;
+        display: block;
+        margin: 1rem auto;
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+.figure-float-left {
+    float: left;
+    width: 310px;
+    margin: 0 2rem 1rem 0;
+    border-radius: 4px;
+}
+
+@media (max-width: 700px) {
+    .figure-float-left {
+        float: none;
+        display: block;
+        margin: 1rem auto;
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+ul {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+ul,
+ol {
+    margin-left: 0.2rem;
+    margin-top: 2rem;
+}
+
+h2 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+}
+
+.post-title {
+    line-height: 1.4;
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 0;
+    border-top: 1px solid #e0e0e0;
+}
+
+ul, p {
+    line-height: 1.6;
+}
+
+.post-content li::marker {
+    font-size: 0.85em;      /* smaller bullet */
+    margin-right: -0.5rem;  /* shifts bullet toward text */
+}
+
+.figure-caption {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 0.5rem;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0 2px;
+}
+
+.figure-float-left .figure-caption {
+    text-align: left;
+}
+
+.figure-float-right .figure-caption {
+    text-align: right;
+}
+
+strong {
+    font-weight: 600;
+}

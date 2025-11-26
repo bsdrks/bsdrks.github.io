@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "My Blog"
+layout: home
+title: "Home"
 ---
 
 ## Hello World :))
