@@ -64,6 +64,7 @@ h1 {
 
 .post-title {
     line-height: 1.4;
+    letter-spacing: 0;
 }
 
 hr {
@@ -106,7 +107,6 @@ strong {
 
 a.post-link {
     font-size: 42px;
-    letter-spacing: -1px;
     font-family: "Playfair Display";
     color: #111;
 }
@@ -114,3 +114,4 @@ a.post-link {
 .site-header {
     border-top: none;
 }
+
