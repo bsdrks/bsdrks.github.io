@@ -29,7 +29,7 @@ layout: post
 
 Wächtersbach’s red earthenware comes from the iron-rich clay of Hessen, and the exposed foot on this vase shows the material plainly.
 
-When Ursula Fesca joined the factory in 1931 to bring [Bauhaus clarity to its designs](https://steinmarks.co.uk/product/wachtersbach-ursula-fesca-vase-1930s/), she focused on simple forms, economical glazing, and surface structures derived from fabrication rather than ornament.
+When Ursula Fesca joined the factory in 1931 to bring [Bauhaus clarity to its designs](https://www.steinmarks.co.uk/page?id=290), she focused on simple forms, economical glazing, and surface structures derived from fabrication rather than ornament.
 
 This vase presents a compact rounded body with evenly moulded ribs and a quiet off-white glaze that leaves the warm clay visible at the edges.
 
