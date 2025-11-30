@@ -118,3 +118,15 @@ a.post-link {
 footer p {
     margin-bottom: 0;
 }
+
+.three-cols {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.three-cols > div {
+    width: 100%;
+    height: auto;
+}
