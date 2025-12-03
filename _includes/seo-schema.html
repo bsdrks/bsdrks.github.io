@@ -1,4 +1,77 @@
 {% if page.layout == 'post' %}
+{% if page.product %}
+{%- comment -%} Product schema for item posts {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": {{ page.product.name | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "category": {{ page.product.category | default: "Vintage Ceramics" | jsonify }},
+  "url": "{{ page.url | absolute_url }}"{% if page.image %},
+  "image": "{{ page.image | absolute_url }}"{% endif %}{% if page.product.materials %},
+  "material": {{ page.product.materials | join: ", " | jsonify }}{% endif %}{% if page.product.condition %},
+  "itemCondition": "https://schema.org/UsedCondition"{% endif %}{% if page.manufacturer %},
+  "brand": {
+    "@type": "Organization",
+    "name": {{ page.manufacturer.name | jsonify }}{% if page.manufacturer.location %},
+    "address": {{ page.manufacturer.location | jsonify }}{% endif %}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": {{ page.manufacturer.name | jsonify }}{% if page.manufacturer.location %},
+    "address": {{ page.manufacturer.location | jsonify }}{% endif %}
+  }{% endif %}{% if page.designer %},
+  "designer": {
+    "@type": "Person",
+    "name": {{ page.designer.name | jsonify }}{% if page.designer.birth_year %},
+    "birthDate": "{{ page.designer.birth_year }}"{% endif %}{% if page.designer.death_year %},
+    "deathDate": "{{ page.designer.death_year }}"{% endif %}
+  }{% endif %}{% if page.product.date_circa %},
+  "productionDate": {{ page.product.date_circa | jsonify }}{% endif %}{% if page.product.offers %},
+  "offers": {
+    "@type": "Offer",
+    "url": {{ page.product.offers.url | jsonify }},
+    "seller": {
+      "@type": "Organization",
+      "name": {{ page.product.offers.seller | default: site.title | jsonify }}
+    },
+    "itemCondition": "https://schema.org/UsedCondition",
+    "availability": "https://schema.org/InStock"
+  }{% endif %}
+}
+</script>
+{% if page.designer %}
+{%- comment -%} Separate Person schema for the designer {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ page.designer.name | jsonify }}{% if page.designer.birth_year %},
+  "birthDate": "{{ page.designer.birth_year }}"{% endif %}{% if page.designer.death_year %},
+  "deathDate": "{{ page.designer.death_year }}"{% endif %},
+  "jobTitle": "Ceramics Designer"{% if page.manufacturer %},
+  "worksFor": {
+    "@type": "Organization",
+    "name": {{ page.manufacturer.name | jsonify }}
+  }{% endif %}
+}
+</script>
+{% endif %}
+{% if page.manufacturer %}
+{%- comment -%} Separate Organization schema for the manufacturer {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ page.manufacturer.name | jsonify }}{% if page.manufacturer.location %},
+  "address": {{ page.manufacturer.location | jsonify }}{% endif %},
+  "@id": "{{ site.url }}/#{{ page.manufacturer.name | slugify }}"
+}
+</script>
+{% endif %}
+{% else %}
+{%- comment -%} Standard Article schema for non-product posts {%- endcomment -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -25,6 +98,7 @@
   "keywords": {{ page.tags | join: ", " | jsonify }}{% endif %}
 }
 </script>
+{% endif %}
 {% elsif page.layout == 'default' or page.url == '/' %}
 <script type="application/ld+json">
 {
@@ -40,4 +114,3 @@
 }
 </script>
 {% endif %}
-

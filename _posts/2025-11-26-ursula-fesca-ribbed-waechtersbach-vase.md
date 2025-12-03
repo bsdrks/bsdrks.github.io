@@ -4,6 +4,29 @@ description: "How a small ribbed Wächtersbach vase reflects Ursula Fesca's visu
 tags: [wächtersbach, ursula-fesca, west-german-ceramics, vase]
 image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg
 layout: post
+
+# Structured data for SEO
+product:
+  name: "Ribbed Wächtersbach Vase"
+  category: "Ceramics"
+  condition: "Very good vintage condition"
+  materials:
+    - "Red earthenware"
+    - "Off-white glaze"
+  dimensions: "Ø 11.5 cm × H 11.5 cm"
+  date_circa: "1930s–1950s"
+  offers:
+    url: "https://www.etsy.com/nl/listing/4393065255/wachtersbach-vase-bremen-by-ursula-fesca"
+    seller: "VintageBas"
+
+designer:
+  name: "Ursula Fesca"
+  birth_year: 1900
+  death_year: 1975
+
+manufacturer:
+  name: "Wächtersbacher Steingutfabrik"
+  location: "Schlierbach, Hessen, Germany"
 ---
 
 <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg" alt="Ribbed Wächtersbach vase – side view">
