@@ -1,7 +1,8 @@
 ---
 title: "Hutschenreuther marks"
-description: "Porcelain ware marks"
-tags: [marks, porcelain, identification]
+description: "A visual guide to Hutschenreuther porcelain marks from different eras, including Abt. Paul Müller, L.H.S., and 1814 marks."
+tags: [marks, porcelain, identification, hutschenreuther]
+image: /assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.jpeg
 layout: post
 ---
 
@@ -11,44 +12,44 @@ This page documents the Hutschenreuther marks that I find in the wild.
 
 <div class="three-cols">
     <img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.jpeg" alt="Abt. Paul Muller serving plate by Hutschenreuther – mark">
-    <img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.jpeg" alt="Abt. Paul Muller serving plate by Hutschenreuther – front view">
     <div>
         <h4>Abt. Paul Müller serving platter</h4>
-        <p><strong>—</strong><br>Hutschenreuther<br>Abt. Paul Müller<br>Selb<br><strong>—</strong></p>
+        <p>Hutschenreuther<br>Abt. Paul Müller<br>Selb</p>
         <p>1949</p>
     </div>
+    <img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.jpeg" alt="Abt. Paul Muller serving plate by Hutschenreuther – front view">
 </div>
 
 ## L.H.S. mark (1939–1965)
 
 <div class="three-cols">
     <img src="/assets/images/hutschenreuther-floral-soup-terrine-mark.jpeg" alt="Floral soup terrine by Hutschenreuther – mark">
-    <img src="/assets/images/hutschenreuther-floral-soup-terrine-front.jpeg" alt="Floral soup terrine by Hutschenreuther – front view">
     <div>
         <h4>Floral soup terrine</h4>
-        <p><strong>—</strong><br>Hutschenreuther<br>Selb<br>LHS<br>BAVARIA<br>GERMANY<br><strong>—</strong></p>
+        <p>Hutschenreuther<br>Selb<br>LHS<br>BAVARIA<br>GERMANY</p>
     </div>
+    <img src="/assets/images/hutschenreuther-floral-soup-terrine-front.jpeg" alt="Floral soup terrine by Hutschenreuther – front view">
 </div>
 
 
 <div class="three-cols">
     <img src="/assets/images/hutschenreuther-floral-serving-platter-mark.jpeg" alt="Floral serving platter soup terrine by Hutschenreuther – mark">
-    <img src="/assets/images/hutschenreuther-floral-serving-platter-top.jpeg" alt="Floral serving platter by Hutschenreuther – top view">
     <div>
         <h4>Floral serving platter</h4>
-        <p><strong>—</strong><br>Hutschenreuther<br>Selb<br>LHS<br>BAVARIA<br>GERMANY<br><strong>—</strong></p>
+        <p>Hutschenreuther<br>Selb<br>LHS<br>BAVARIA<br>GERMANY</p>
         <a href="https://www.etsy.com/nl/listing/4401083127/porcelain-serving-plate-by">Etsy link</a>
     </div>
+    <img src="/assets/images/hutschenreuther-floral-serving-platter-top.jpeg" alt="Floral serving platter by Hutschenreuther – top view">
 </div>
 
 ## 1814 mark (1969–)
 
 <div class="three-cols">
     <img src="/assets/images/hutschenreuther-ribbed-modern-teapot-mark.jpeg" alt="Modern, ribbed white teapot by Hutschenreuther – mark">
-    <img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.jpeg" alt="Modern, ribbed white teapot by Hutschenreuther – front view">
     <div>
         <h4>Ribbed, white, modern teapot</h4>
-        <p><strong>—</strong><br>1814<br>HUTSCHENREUTHER<br>GERMANY<br><strong>—</strong></p>
+        <p>1814<br>HUTSCHENREUTHER<br>GERMANY</p>
         <p><a href="https://www.etsy.com/nl/listing/4407284863/porseleinen-theeset-van-hutschenreuther">Etsy link</a></p>
     </div>
+    <img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.jpeg" alt="Modern, ribbed white teapot by Hutschenreuther – front view">
 </div>

@@ -1,0 +1,9 @@
+# Robots.txt for VintageBas
+# https://bsdrks.github.io
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bsdrks.github.io/sitemap.xml
+

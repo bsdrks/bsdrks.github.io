@@ -1,0 +1,43 @@
+{% if page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author | default: site.author | jsonify }},
+    "url": "{{ site.url }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": "{{ site.url }}"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }{% if page.image %},
+  "image": "{{ page.image | absolute_url }}"{% endif %}{% if page.tags %},
+  "keywords": {{ page.tags | join: ", " | jsonify }}{% endif %}
+}
+</script>
+{% elsif page.layout == 'default' or page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "url": "{{ site.url }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | jsonify }}
+  }
+}
+</script>
+{% endif %}
+
