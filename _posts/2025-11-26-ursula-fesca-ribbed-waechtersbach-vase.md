@@ -3,6 +3,8 @@ title: "Ursula Fesca for Wächtersbach"
 description: "How a small ribbed Wächtersbach vase reflects Ursula Fesca's visual language of form, rhythm, and restrained colour."
 tags: [wächtersbach, ursula-fesca, west-german-ceramics, vase]
 image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg
+thumbnail:
+  position: "center 65%"
 layout: post
 
 # Structured data for SEO
