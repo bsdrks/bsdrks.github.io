@@ -306,7 +306,20 @@ footer p {
         width: 140px;
         height: 140px;
         object-fit: cover;
-        border-radius: 3px;
+        border-radius: 4px;
+    }
+    
+    .img-zoom {
+        width: 140px;
+        height: 140px;
+        overflow: hidden;
+        border-radius: 4px;
+        
+        img {
+            width: 100%;
+            height: 100%;
+            border-radius: 0;
+        }
     }
 }
 
