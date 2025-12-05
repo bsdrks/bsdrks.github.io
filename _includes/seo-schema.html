@@ -37,7 +37,9 @@
       "name": {{ page.product.offers.seller | default: site.title | jsonify }}
     },
     "itemCondition": "https://schema.org/UsedCondition",
-    "availability": "https://schema.org/InStock"
+    "availability": "https://schema.org/InStock"{% if page.product.offers.price %},
+    "price": {{ page.product.offers.price | jsonify }}{% endif %}{% if page.product.offers.priceCurrency %},
+    "priceCurrency": {{ page.product.offers.priceCurrency | jsonify }}{% endif %}
   }{% endif %}
 }
 </script>

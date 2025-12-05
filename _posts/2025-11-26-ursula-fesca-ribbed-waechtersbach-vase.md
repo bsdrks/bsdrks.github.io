@@ -20,6 +20,8 @@ product:
   offers:
     url: "https://www.etsy.com/nl/listing/4393065255/wachtersbach-vase-bremen-by-ursula-fesca"
     seller: "VintageBas"
+    price: 59.95
+    priceCurrency: "EUR"
 
 designer:
   name: "Ursula Fesca"
