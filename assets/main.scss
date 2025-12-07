@@ -312,6 +312,19 @@ footer p {
     margin-bottom: 1.5rem;
 }
 
+.mark-explanation {
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+.marks-subsection {
+    margin-bottom: 1.5rem;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
 .marks-toc {
     margin-bottom: 2rem;
     display: flex;
@@ -335,6 +348,8 @@ footer p {
 
 .marks-section {
     margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
     
     > h2 {
         font-family: "Playfair Display", serif;
@@ -343,22 +358,31 @@ footer p {
         padding-top: 1rem;
     }
     
-    > p {
+    p {
         color: #666;
-        margin-bottom: 1.5rem;
+    }
+
+    .mark-entry p {
+        color: #222;
+    }
+
+    > p {
+        margin-bottom: 1rem;
     }
 }
 
 .mark-entry {
     display: grid;
     grid-template-columns: auto 1fr;
-    gap: 1.5rem;
+    gap: 2rem;
     margin-bottom: 1rem;
     padding-bottom: 1rem;
     border-bottom: 1px solid #e0e0e0;
     
     &:last-child {
         border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
     }
 }
 
@@ -395,6 +419,33 @@ footer p {
     h3 {
         font-size: 1.1rem;
         margin: 0 0 0.25rem 0;
+    }
+}
+
+h3.mark-ruler {
+    display: flex;
+    align-items: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: #666;
+    margin: 1rem 0;
+    
+    &::before,
+    &::after {
+        content: "";
+        flex: 1;
+        height: 1px;
+        background: #ccc;
+    }
+    
+    &::before {
+        margin-right: 1rem;
+    }
+    
+    &::after {
+        margin-left: 1rem;
     }
 }
 
