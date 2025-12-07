@@ -63,7 +63,7 @@ h2 {
 }
 
 * {
-    font-family: "Montserrat", sans-serif;
+    font-family: "TASA Orbiter", sans-serif;
 }
 
 h1 {
@@ -116,7 +116,7 @@ strong {
 a.post-link {
     font-size: 42px;
     font-family: "Playfair Display";
-    color: #111;
+    color: #222;
 }
 
 // Homepage post list with thumbnails
@@ -209,7 +209,7 @@ a.post-link {
         margin-left: 1rem;
         
         &:hover {
-            color: #111;
+            color: #222;
             text-decoration: none;
         }
     }
@@ -249,7 +249,7 @@ footer p {
 }
 
 .marks-toc {
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
     display: flex;
     flex-direction: column;
     gap: 0.4rem;
@@ -270,7 +270,7 @@ footer p {
 }
 
 .marks-section {
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     
     > h2 {
         font-family: "Playfair Display", serif;
@@ -286,12 +286,12 @@ footer p {
 }
 
 .mark-entry {
+    background-color: #f9f9f9;
     display: grid;
     grid-template-columns: auto 1fr;
     gap: 1.5rem;
     margin-bottom: 1rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid #eee;
+    padding: 1rem;
     
     &:last-child {
         border-bottom: none;
@@ -303,17 +303,17 @@ footer p {
     gap: 0.5rem;
     
     img {
-        width: 140px;
-        height: 140px;
+        width: 180px;
+        height: 220px;
         object-fit: cover;
-        border-radius: 4px;
+        border-radius: 3px;
     }
     
     .img-zoom {
-        width: 140px;
-        height: 140px;
+        width: 180px;
+        height: 220px;
         overflow: hidden;
-        border-radius: 4px;
+        border-radius: 3px;
         
         img {
             width: 100%;
@@ -324,28 +324,13 @@ footer p {
 }
 
 .mark-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
     h3 {
         font-size: 1.1rem;
         margin: 0 0 0.25rem 0;
-    }
-    
-    p {
-        margin: 0 0 0.1rem 0;
-    }
-    
-    .mark-text {
-        font-size: 0.9rem;
-        color: #444;
-        margin: 0.25rem 0;
-    }
-    
-    .mark-date {
-        font-size: 0.9rem;
-        color: #888;
-    }
-    
-    a {
-        font-size: 0.9rem;
     }
 }
 
@@ -360,4 +345,66 @@ footer p {
             height: 120px;
         }
     }
+}
+
+// Timeline page styles
+.timeline-page {
+    h1 {
+        font-family: "Playfair Display", serif;
+        margin-bottom: 0.5rem;
+    }
+}
+
+.timeline-intro {
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+.timeline {
+    max-width: 700px;
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    gap: 0.5rem 2rem;
+
+    .header {
+        font-weight: 500;
+    }
+}
+
+.img-zoom {
+    position: relative;
+}
+
+.etsy-link {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #F56400;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 2px 5px;
+    border-radius: 3px 0 0 0;
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    transition: background 0.15s 
+ease;
+
+    &:hover {
+        color: #fff;
+        background: #d45500;
+        text-decoration: none;
+    }
+}
+
+p.mark-year {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 0.5rem;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-bottom: 0;
+    width: 100%;
+    padding: 0 2px;
 }
