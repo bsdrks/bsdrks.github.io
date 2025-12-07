@@ -12,3 +12,6 @@ vendor/
 
 # macOS metadata
 .DS_Store
+
+darktable_exported
+*.xmp

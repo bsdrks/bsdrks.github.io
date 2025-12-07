@@ -29,7 +29,7 @@ permalink: /porcelain-marks/
 <div class="mark-entry">
     <div class="mark-images">
         <span class="img-zoom"><img src="/assets/images/arabia-bowl-mark.webp" alt="Arabia mark" style="object-position: 10px 18px; transform: scale(1.2);"></span>
-        <span class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="Arabia Windflower bowl" style="object-position: center 25%;"><a class="etsy-link" href="https://www.etsy.com/listing/4411787371" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="Arabia Windflower bowl" style="object-position: center 25%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">WINDFLOWER<br>ARABIA<br>MADE IN FINLAND<br>Handpainted</p>
@@ -45,8 +45,8 @@ permalink: /porcelain-marks/
 
 <div class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.jpeg" alt="Hutschenreuther Abt. Paul Müller mark" style="transform: scale(1.3);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.jpeg" alt="Hutschenreuther Abt. Paul Müller serving platter" style="object-position: center 55%;"><a class="etsy-link" href="https://www.etsy.com/nl/listing/4416388495/hutschenreuther-serveerschaal-31-cm" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.webp" alt="Hutschenreuther Abt. Paul Müller mark" style="transform: scale(1.3);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.webp" alt="Hutschenreuther Abt. Paul Müller serving platter" style="object-position: center 55%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Hutschenreuther<br>Abt. Paul Müller<br>Selb</p>
@@ -56,8 +56,8 @@ permalink: /porcelain-marks/
 
 <div class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-mark.jpeg" alt="Hutschenreuther L.H.S. mark" style="object-position: center 35%;  transform: scale(1.7);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-front.jpeg" alt="Hutschenreuther floral soup terrine" style="object-position: center 55%;"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-mark.webp" alt="Hutschenreuther L.H.S. mark" style="object-position: center 35%;  transform: scale(1.7);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-front.webp" alt="Hutschenreuther floral soup terrine" style="object-position: center 55%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Hutschenreuther<br>Selb<br>L.H.S.<br>BAVARIA<br>GERMANY</p>
@@ -66,8 +66,8 @@ permalink: /porcelain-marks/
 
 <div class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-mark.jpeg" alt="Hutschenreuther L.H.S. mark on serving platter" style="object-position: center 65%; transform: scale(1.6);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-top.jpeg" alt="Hutschenreuther floral serving platter" style="object-position: center 58%;"><a class="etsy-link" href="https://www.etsy.com/nl/listing/4401083127/porcelain-serving-plate-by" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-mark.webp" alt="Hutschenreuther L.H.S. mark on serving platter" style="object-position: center 65%; transform: scale(1.6);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-top.webp" alt="Hutschenreuther floral serving platter" style="object-position: center 58%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Hutschenreuther<br>Selb<br>L.H.S.<br>BAVARIA<br>GERMANY</p>
@@ -76,8 +76,8 @@ permalink: /porcelain-marks/
 
 <div class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-mark.jpeg" alt="Hutschenreuther 1814 mark" style="object-position: center 105%; transform: scale(1.7);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.jpeg" alt="Hutschenreuther ribbed modern teapot"><a class="etsy-link" href="https://www.etsy.com/nl/listing/4407284863/porseleinen-theeset-van-hutschenreuther" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-mark.webp" alt="Hutschenreuther 1814 mark" style="object-position: center 105%; transform: scale(1.7);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.webp" alt="Hutschenreuther ribbed modern teapot"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">1814<br>HUTSCHENREUTHER<br>GERMANY</p>
@@ -93,7 +93,7 @@ permalink: /porcelain-marks/
 <div class="mark-entry">
     <div class="mark-images">
         <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-mark.webp" alt="Kahla mark" style="transform: scale(1.6); object-position: center 105%;"></span>
-        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-top.webp" alt="Kahla serving platter"><a class="etsy-link" href="https://www.etsy.com/listing/4416840191" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-top.webp" alt="Kahla serving platter"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">KAHLA</p>
@@ -110,7 +110,7 @@ permalink: /porcelain-marks/
 <div class="mark-entry">
     <div class="mark-images">
         <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-mark.webp" alt="Porcelanas Ibis mark"></span>
-        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Porcelanas Ibis vase"><a class="etsy-link" href="https://www.etsy.com/listing/4416817127" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Porcelanas Ibis vase"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">PORCELANAS<br>ÍBIS<br>AVEIRO<br>PORTUGAL</p>
@@ -126,7 +126,7 @@ permalink: /porcelain-marks/
 <div class="mark-entry">
     <div class="mark-images">
         <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-mark.webp" alt="Rosenthal Donatello mark" style="object-position: center 105%; transform: scale(1.4);"></span>
-        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-top.webp" alt="Rosenthal Donatello serving platter"><a class="etsy-link" href="https://www.etsy.com/listing/4411694906" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-top.webp" alt="Rosenthal Donatello serving platter"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Rosenthal<br>SELB BAVARIA<br>DONATELLO</p>
@@ -143,7 +143,7 @@ permalink: /porcelain-marks/
 <div class="mark-entry">
     <div class="mark-images">
         <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.png" alt="Villeroy & Boch Dresden mark"></span>
-        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-front.webp" alt="Villeroy & Boch Dresden teapot"><a class="etsy-link" href="https://www.etsy.com/listing/4410332251" target="_blank" rel="noopener">Etsy</a></span>
+        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-front.webp" alt="Villeroy & Boch Dresden teapot"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">VILLEROY & BOCH<br>DRESDEN</p>

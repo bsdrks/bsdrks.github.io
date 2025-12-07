@@ -8,7 +8,7 @@
     float: right;
     width: 310px;
     margin: 0 0 1rem 2rem;
-    border-radius: 3px;
+    border-radius: 2px;
 }
 
 @media (max-width: 700px) {
@@ -27,7 +27,7 @@
             width: 100%;
             max-width: 280px;
             height: auto;
-            border-radius: 3px;
+            border-radius: 2px;
         }
         
         .figure-caption {
@@ -41,7 +41,7 @@
     float: left;
     width: 310px;
     margin: 0 2rem 1rem 0;
-    border-radius: 3px;
+    border-radius: 2px;
 }
 
 @media (max-width: 700px) {
@@ -60,7 +60,7 @@
             width: 100%;
             max-width: 280px;
             height: auto;
-            border-radius: 3px;
+            border-radius: 2px;
         }
         
         .figure-caption {
@@ -170,7 +170,7 @@ a.post-link {
     width: 120px;
     height: 120px;
     overflow: hidden;
-    border-radius: 3px;
+    border-radius: 2px;
     
     img {
         width: 100%;
@@ -350,12 +350,12 @@ footer p {
 }
 
 .mark-entry {
-    background-color: #f9f9f9;
     display: grid;
     grid-template-columns: auto 1fr;
     gap: 1.5rem;
     margin-bottom: 1rem;
-    padding: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e0e0e0;
     
     &:last-child {
         border-bottom: none;
@@ -364,20 +364,20 @@ footer p {
 
 .mark-images {
     display: flex;
-    gap: 0.5rem;
+    gap: 1.0rem;
     
     img {
         width: 180px;
         height: 220px;
         object-fit: cover;
-        border-radius: 3px;
+        border-radius: 2px;
     }
     
     .img-zoom {
         width: 180px;
         height: 220px;
         overflow: hidden;
-        border-radius: 3px;
+        border-radius: 2px;
         
         img {
             width: 100%;
@@ -436,55 +436,8 @@ footer p {
     }
 }
 
-// Timeline page styles
-.timeline-page {
-    h1 {
-        font-family: "Playfair Display", serif;
-        margin-bottom: 0.5rem;
-    }
-}
-
-.timeline-intro {
-    color: #666;
-    margin-bottom: 2rem;
-}
-
-.timeline {
-    max-width: 700px;
-    display: grid;
-    grid-template-columns: auto auto 1fr;
-    gap: 0.5rem 2rem;
-
-    .header {
-        font-weight: 500;
-    }
-}
-
 .img-zoom {
     position: relative;
-}
-
-.etsy-link {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    background: #F56400;
-    color: #fff;
-    font-size: 0.7rem;
-    font-weight: 600;
-    padding: 2px 5px;
-    border-radius: 3px 0 0 0;
-    text-decoration: none;
-    letter-spacing: 0.02em;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-    transition: background 0.15s 
-ease;
-
-    &:hover {
-        color: #fff;
-        background: #d45500;
-        text-decoration: none;
-    }
 }
 
 p.mark-year {
