@@ -116,7 +116,7 @@ permalink: /porcelain-marks/
 <p>German porcelain manufacturer from Thuringia, founded in 1844.</p>
 
 <div class="marks-subsection">
-<h3 class="mark-ruler">KAHLA</h3>
+<h3 class="mark-ruler">Rectangle</h3>
 
 <div class="mark-entry">
     <div class="mark-images">
@@ -137,6 +137,9 @@ permalink: /porcelain-marks/
 <h2>Porcelanas Íbis</h2>
 <p>Portuguese porcelain manufacturer.</p>
 
+<div class="marks-subsection">
+<h3 class="mark-ruler">Ibis</h3>
+
 <div class="mark-entry">
     <div class="mark-images">
         <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-mark.webp" alt="Porcelanas Ibis mark"></span>
@@ -145,6 +148,8 @@ permalink: /porcelain-marks/
     <div class="mark-info">
         <p class="mark-text">PORCELANAS<br>ÍBIS<br>AVEIRO<br>PORTUGAL</p>
     </div>
+</div>
+
 </div>
 
 </section>
@@ -173,6 +178,10 @@ permalink: /porcelain-marks/
 <h2>Villeroy & Boch</h2>
 <p>German ceramics manufacturer founded in 1748.</p>
 
+<div class="marks-subsection">
+<h3 class="mark-ruler">Mercury</h3>
+<p class="mark-explanation">The figure atop the mark is the Roman god Mercury.</p>
+
 <div class="mark-entry">
     <div class="mark-images">
         <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.png" alt="Villeroy & Boch Dresden mark"></span>
@@ -182,6 +191,8 @@ permalink: /porcelain-marks/
         <p class="mark-text">VILLEROY & BOCH<br>DRESDEN</p>
         <p class="mark-year">Mark period: 1874&ndash;1909 (&hairsp;online consensus&hairsp;)</p>
     </div>
+</div>
+
 </div>
 
 </section>
