@@ -130,6 +130,7 @@ permalink: /porcelain-marks/
     </div>
     <div class="mark-info">
         <p class="mark-text">Rosenthal<br>SELB BAVARIA<br>DONATELLO</p>
+        <p class="mark-year">Mark period: <a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html">1922&ndash;1933</a></p>
     </div>
 </div>
 
