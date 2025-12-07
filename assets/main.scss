@@ -14,10 +14,26 @@
 @media (max-width: 700px) {
     .figure-float-right {
         float: none;
-        display: block;
-        margin: 1rem auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 1.5rem auto;
         width: 100%;
-        max-width: 300px;
+        max-width: 100%;
+        padding: 0 1rem;
+        box-sizing: border-box;
+        
+        img {
+            width: 100%;
+            max-width: 280px;
+            height: auto;
+            border-radius: 3px;
+        }
+        
+        .figure-caption {
+            text-align: center;
+            max-width: 280px;
+        }
     }
 }
 
@@ -31,10 +47,26 @@
 @media (max-width: 700px) {
     .figure-float-left {
         float: none;
-        display: block;
-        margin: 1rem auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 1.5rem auto;
         width: 100%;
-        max-width: 300px;
+        max-width: 100%;
+        padding: 0 1rem;
+        box-sizing: border-box;
+        
+        img {
+            width: 100%;
+            max-width: 280px;
+            height: auto;
+            border-radius: 3px;
+        }
+        
+        .figure-caption {
+            text-align: center;
+            max-width: 280px;
+        }
     }
 }
 
@@ -231,6 +263,16 @@ footer p {
     height: auto;
 }
 
+@media (max-width: 500px) {
+    .three-cols {
+        grid-template-columns: 1fr;
+        gap: 0.75rem;
+        max-width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 .site-title {
     font-family: "Playfair Display", serif;
 }
@@ -240,6 +282,26 @@ footer p {
     h1 {
         font-family: "Playfair Display", serif;
         margin-bottom: 0.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .marks-page {
+        h1 {
+            text-align: center;
+        }
+    }
+    
+    .marks-intro {
+        text-align: center;
+    }
+    
+    .marks-section > h2 {
+        text-align: center;
+    }
+    
+    .marks-section > p {
+        text-align: center;
     }
 }
 
@@ -337,13 +399,38 @@ footer p {
 @media (max-width: 600px) {
     .mark-entry {
         grid-template-columns: 1fr;
+        padding: 1rem;
+        margin-left: 0;
+        margin-right: 0;
     }
     
     .mark-images {
-        img {
-            width: 120px;
-            height: 120px;
+        justify-content: center;
+        width: 100%;
+        
+        .img-zoom {
+            width: calc(50% - 0.25rem);
+            max-width: 160px;
+            height: auto;
+            aspect-ratio: 4/5;
+            
+            img {
+                width: 100%;
+                height: 100%;
+            }
         }
+    }
+    
+    .mark-info {
+        text-align: center;
+        
+        .mark-text {
+            text-align: center;
+        }
+    }
+    
+    p.mark-year {
+        text-align: center;
     }
 }
 
