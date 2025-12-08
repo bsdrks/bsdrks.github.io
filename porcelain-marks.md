@@ -25,11 +25,11 @@ permalink: /porcelain-marks/
 
 <section id="arabia" class="marks-section">
 <h2>Arabia</h2>
-<p>Finnish ceramics manufacturer founded in Helsinki in <time datetime="1873"><span class="number-spaced">1873</span></time>.</p>
+<p>Finnish ceramics manufacturer founded in <time datetime="1873"><span class="number-spaced">1873</span></time> as part of Rörstrand. Independent since <time datetime="1916"><span class="number-spaced">1916</span></time>.</p>
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">Windflower</h3>
-<p class="mark-explanation">The <strong>Windflower</strong> decor was designed by Olga Osol.</p>
+<p class="mark-explanation">The <strong>Windflower</strong> decor was designed by Olga Osol. <strong>&ldquo;&hairsp;MADE IN FINLAND&hairsp;&rdquo;</strong> is due to the <span class="number-spaced">1891</span> McKinley Tariff Act.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
@@ -68,7 +68,7 @@ permalink: /porcelain-marks/
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">L.H.S.</h3>
-<p class="mark-explanation">L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.&hairsp; stands for &ldquo;&hairsp;Lorenz Hutschenreuther Selb&hairsp;&rdquo;. <strong>Lorenz Hutschenreuther</strong> took over his father&rsquo;s porcelain business in <time datetime="1855"><span class="number-spaced">1855</span></time> and established the <strong>Selb</strong> factory in <time datetime="1857"><span class="number-spaced">1857</span></time>.</p>
+<p class="mark-explanation"><strong>L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.</strong> stands for &ldquo;&hairsp;Lorenz Hutschenreuther Selb&hairsp;&rdquo;. Lorenz Hutschenreuther took over his father&rsquo;s porcelain business in <time datetime="1855"><span class="number-spaced">1855</span></time> and established the <strong>Selb</strong> factory in <time datetime="1857"><span class="number-spaced">1857</span></time>.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
@@ -96,7 +96,7 @@ permalink: /porcelain-marks/
 
 <h3 class="mark-ruler">1814</h3>
 
-<p class="mark-explanation">This mark was used from <time datetime="1969"><span class="number-spaced">1969</span></time> onwards. <time datetime="1814"><span class="number-spaced"><strong>1814</strong></span></time> is the factory&rsquo;s founding year.</p>
+<p class="mark-explanation">This <strong>&ldquo;&hairsp;<time datetime="1814"><span class="number-spaced">1814</span></time>&hairsp;&rdquo;</strong> mark was used from <time datetime="1969"><span class="number-spaced">1969</span></time> onwards to commemorate the factory&rsquo;s 150<sup>th</sup> anniversary.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
@@ -118,6 +118,7 @@ permalink: /porcelain-marks/
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">Rectangle</h3>
+<p class="mark-explanation">The Rectangle mark reflects Kahla&rsquo;s Bauhaus influence.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
@@ -181,7 +182,7 @@ permalink: /porcelain-marks/
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">Mercury</h3>
-<p class="mark-explanation">The figure atop the mark is the Roman god Mercury.</p>
+<p class="mark-explanation">The figure atop the mark is Mercury, the Roman god of commerce.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
