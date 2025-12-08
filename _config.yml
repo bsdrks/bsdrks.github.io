@@ -32,6 +32,5 @@ exclude:
   - Gemfile.lock
 
 social:
-  etsy: "https://www.etsy.com/shop/VintageBas"
   vinted: "https://www.vinted.nl/member/306299073"
   instagram: "https://www.instagram.com/vintagebas"

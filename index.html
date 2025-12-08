@@ -8,22 +8,24 @@ title: VintageBas
   <ul class="post-list">
     {% for post in site.posts %}
       <li class="post-item">
-        {% if post.image %}
-        <a href="{{ post.url | relative_url }}" class="post-thumbnail">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}"
-               style="{% if post.thumbnail.scale %}transform: scale({{ post.thumbnail.scale }});{% endif %}{% if post.thumbnail.position %}object-position: {{ post.thumbnail.position }};{% endif %}">
-        </a>
-        {% endif %}
-        <div class="post-info">
-          <span class="post-meta">
-            {{ post.date | date: "%b %-d, %Y" }}
-          </span>
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h2>
-        </div>
+        <article>
+          {% if post.image %}
+          <a href="{{ post.url | relative_url }}" class="post-thumbnail">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}"
+                 style="{% if post.thumbnail.scale %}transform: scale({{ post.thumbnail.scale }});{% endif %}{% if post.thumbnail.position %}object-position: {{ post.thumbnail.position }};{% endif %}">
+          </a>
+          {% endif %}
+          <div class="post-info">
+            <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%b %-d, %Y" }}
+            </time>
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h2>
+          </div>
+        </article>
       </li>
     {% endfor %}
   </ul>

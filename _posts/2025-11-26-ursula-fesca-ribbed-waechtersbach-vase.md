@@ -1,6 +1,6 @@
 ---
 title: "Ursula Fesca for Wächtersbach"
-description: "How a small ribbed Wächtersbach vase reflects Ursula Fesca's visual language of form, rhythm, and restrained colour."
+description: "How a small ribbed Wächtersbach vase reflects Ursula Fesca&rsquo;s visual language of form, rhythm, and restrained colour."
 tags: [wächtersbach, ursula-fesca, west-german-ceramics, vase]
 image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg
 thumbnail:
@@ -18,9 +18,9 @@ product:
   dimensions: "Ø 11.5 cm × H 11.5 cm"
   date_circa: "1930s–1950s"
   offers:
-    url: "https://www.etsy.com/nl/listing/4393065255/wachtersbach-vase-bremen-by-ursula-fesca"
+    url: "https://www.vinted.nl/items/7438976219-minimalistische-designvaas-van-ursula-fesca-minimalist-design-vase-mid-century"
     seller: "VintageBas"
-    price: 59.95
+    price: 25.90
     priceCurrency: "EUR"
 
 designer:
@@ -35,29 +35,50 @@ manufacturer:
 
 <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg" alt="Ribbed Wächtersbach vase – side view">
 
-- **Maker:** Wächtersbacher Steingutfabrik
-- **Designer:** Ursula Fesca, 1900–1975
-- **Place of production:** Schlierbach, Hessen, Germany
-- **Date:** ca. 1930s–1950s, likely post-war period
-- **Materials:** Red earthenware body with off-white glaze
-- **Technique:** Slip-cast form with evenly ribbed relief; glazed interior; unglazed foot
-- **Dimensions:** Ø 11.5 cm; H 11.5 cm
-- **Marks:** Stamped *Wächtersbach*, *Made in Western Germany*, “Bremen”
-- **Condition:** Very good vintage condition with minor age-related wear
-- **Provenance:** Private collection, Netherlands
+<dl>
+<dt>Maker</dt>
+<dd>Wächtersbacher Steingutfabrik</dd>
+
+<dt>Designer</dt>
+<dd>Ursula Fesca, <time datetime="1900"><span class="number-spaced">1900</span></time>–<time datetime="1975"><span class="number-spaced">1975</span></time></dd>
+
+<dt>Place of production</dt>
+<dd><address>Schlierbach, Hessen, Germany</address></dd>
+
+<dt>Date</dt>
+<dd><abbr title="circa">ca.</abbr>&nbsp;<time datetime="1930"><span class="number-spaced">1930</span></time>s–<time datetime="1950"><span class="number-spaced">1950</span></time>s, likely post-war period</dd>
+
+<dt>Materials</dt>
+<dd>Red earthenware body with off-white glaze</dd>
+
+<dt>Technique</dt>
+<dd>Slip-cast form with evenly ribbed relief; glazed interior; unglazed foot</dd>
+
+<dt>Dimensions</dt>
+<dd>Ø <span class="number-spaced">11.5</span> cm; H <span class="number-spaced">11.5</span> cm</dd>
+
+<dt>Marks</dt>
+<dd>Stamped <em>Wächtersbach</em>, <em>Made in Western Germany</em>, &ldquo;Bremen&rdquo;</dd>
+
+<dt>Condition</dt>
+<dd>Very good vintage condition with minor age-related wear</dd>
+
+<dt>Provenance</dt>
+<dd>Private collection, Netherlands</dd>
+</dl>
 
 <div style="clear: both;"></div>
 
 ---
 
-<p class="figure-float-left">
+<figure class="figure-float-left">
     <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.jpg" alt="Ribbed Waechtersbach vase – bottom view">
-    <span class="figure-caption">underside</span>
-</p>
+    <figcaption class="figure-caption">underside</figcaption>
+</figure>
 
 Wächtersbach’s red earthenware comes from the iron-rich clay of Hessen, and the exposed foot on this vase shows the material plainly.
 
-When Ursula Fesca joined the factory in 1931 to bring <a href="https://www.steinmarks.co.uk/page?id=290" target="_blank" rel="noopener">Bauhaus clarity to its designs</a>, she focused on simple forms, economical glazing, and surface structures derived from fabrication rather than ornament.
+When Ursula Fesca joined the factory in <time datetime="1931"><span class="number-spaced">1931</span></time> to bring <cite><a href="https://www.steinmarks.co.uk/page?id=290" target="_blank" rel="noopener">Bauhaus clarity to its designs</a></cite>, she focused on simple forms, economical glazing, and surface structures derived from fabrication rather than ornament.
 
 This vase presents a compact rounded body with evenly moulded ribs and a quiet off-white glaze that leaves the warm clay visible at the edges.
 
@@ -65,11 +86,11 @@ This vase presents a compact rounded body with evenly moulded ribs and a quiet o
 
 ---
 
-<p class="figure-float-right">
+<figure class="figure-float-right">
     <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-top.jpg" alt="Ribbed Wächtersbach vase – top view">
-    <span class="figure-caption">top&nbsp;view</span>
-</p>
+    <figcaption class="figure-caption">top&nbsp;view</figcaption>
+</figure>
 
 Ursula Fesca’s Wächtersbach work fits current design trends: warm materials, quiet forms, and honest clay. This ribbed vase works well in Japandi and soft-modern interiors.
 
-Find it <a href="https://www.etsy.com/nl/listing/4393065255/wachtersbach-vase-bremen-by-ursula-fesca" target="_blank" rel="noopener">in my Etsy shop</a>.
+Find it <a href="https://www.vinted.nl/items/7438976219-minimalistische-designvaas-van-ursula-fesca-minimalist-design-vase-mid-century" target="_blank" rel="noopener">on Vinted</a>.
