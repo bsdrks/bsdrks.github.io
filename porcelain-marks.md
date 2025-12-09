@@ -14,6 +14,9 @@ permalink: /porcelain-marks/
 <nav class="marks-toc">
     <strong>Jump to</strong>
     <a href="#arabia">Arabia</a>
+    <a href="#blue-danube">Blue Danube</a>
+    <a href="#figgjo">Figgjo</a>
+    <a href="#franziska-hirsch">Hirsch, Franziska</a>
     <a href="#hutschenreuther">Hutschenreuther</a>
     <a href="#kahla">Kahla</a>
     <a href="#meissen">Meissen</a>
@@ -57,6 +60,73 @@ permalink: /porcelain-marks/
     <div class="mark-info">
         <p class="mark-text">ARABIA<br>FINLAND<br>Karelia</p>
         <p class="mark-year">Production period: <time datetime="1970"><span class="number-spaced">1970</span></time>&ndash;<time datetime="1986"><span class="number-spaced">1986</span></time></p>
+    </div>
+</article>
+
+</div>
+
+</section>
+
+<section id="blue-danube" class="marks-section">
+<h2>Blue Danube</h2>
+<p>Japanese porcelain manufacturer known for producing Zwiebelmuster decor.</p>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">Mark</h3>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-mark.webp" alt="Blue Danube mark"></span>
+        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-side-view.webp" alt="Blue Danube cup"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text">Blue Danube &reg;<br>Japan</p>
+    </div>
+</article>
+
+</div>
+
+</section>
+
+<section id="figgjo" class="marks-section">
+<h2>Figgjo</h2>
+<p>Norwegian ceramics manufacturer founded in <time datetime="1941"><span class="number-spaced">1941</span></time>.</p>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">Bekkeblom</h3>
+<p class="mark-explanation">The <strong>Bekkeblom</strong> decor was designed by Rolf Frøyland in <time datetime="1979"><span class="number-spaced">1979</span></time>. It features the marsh marigold (&hairsp;Caltha palustris&hairsp;) with Art Nouveau-inspired lines.</p>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-mark.webp" alt="Figgjo Bekkeblom mark"></span>
+        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-top-view.webp" alt="Figgjo Bekkeblom plate"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text">FIGGJO<br>NORWAY<br>Bekkeblom</p>
+        <p class="mark-year">Production period: <cite><a target="_blank" rel="noopener" href="https://www.jaermuseet.no/samlingar/wp-content/uploads/sites/16/2016/04/2012.3-Rolf-Fr%C3%B8yland-danser-polka-p%C3%A5-11-mm.pdf"><time datetime="1979"><span class="number-spaced">1979</span></time>&ndash;<time datetime="1985"><span class="number-spaced">1985</span></time></a></cite></p>
+    </div>
+</article>
+
+</div>
+
+</section>
+
+<section id="franziska-hirsch" class="marks-section">
+<h2>Hirsch, Franziska</h2>
+<p>Dresden porcelain decorator operating her painting business from <time datetime="1893"><span class="number-spaced">1893</span></time> until <time datetime="1930"><span class="number-spaced">1930</span></time>.</p>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">XH</h3>
+<p class="mark-explanation">The <strong>XH</strong> mark was used from <time datetime="1893"><span class="number-spaced">1894</span></time> until <time datetime="1896"><span class="number-spaced">1896</span></time>, when the mark was banned after Meissen KPM filed a complaint for imitation of its factory mark.</p>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-mark.webp" alt="Franziska Hirsch XH mark"></span>
+        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-top-view.webp" alt="Franziska Hirsch saucer"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text"><em>XH</em></p>
+        <p class="mark-year">Mark period: <time datetime="1894"><span class="number-spaced">1894</span></time>&ndash;<time datetime="1896"><span class="number-spaced">1896</span></time></p>
     </div>
 </article>
 
@@ -173,8 +243,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/meissen-saucer-mark.jpeg" alt="Meissen crossed swords mark"></span>
-        <span class="img-zoom"><img src="/assets/images/meissen-saucer-top-view.jpeg" alt="Meissen saucer"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-saucer-mark.webp" alt="Meissen crossed swords mark"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-saucer-top-view.webp" alt="Meissen saucer"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text"><em>Crossed swords</em></p>
@@ -183,8 +253,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/meissen-vase-mark.jpeg" alt="Meissen crossed swords mark on vase"></span>
-        <span class="img-zoom"><img src="/assets/images/meissen-vase-front-view.jpeg" alt="Meissen vase"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-vase-mark.webp" alt="Meissen crossed swords mark on vase"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-vase-front-view.webp" alt="Meissen vase"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text"><em>Crossed swords</em></p>
@@ -249,6 +319,23 @@ permalink: /porcelain-marks/
     <div class="mark-info">
         <p class="mark-text">Rosenthal<br>SELB-GERMANY<br>Cattleya</p>
         <p class="mark-year">Mark period: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1941"><span class="number-spaced">1941</span></time></a></cite></p>
+    </div>
+</article>
+
+</div>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">Studio Line</h3>
+<p class="mark-explanation">The &ldquo;&hairsp;<strong>studio-linie</strong>&hairsp;&rdquo; was introduced to showcase collaborations with renowned artists and designers.</p>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-mark.webp" alt="Rosenthal Studio Line mark"></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-front-view.webp" alt="Rosenthal Studio Line bowl"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text">Rosenthal<br>studio-linie<br>GERMANY</p>
+        <p class="mark-year">Studio-linie mark period: <a target="_blank" rel="noopener" href="https://www.rosenthal.de/en-de/fascination-of-rosenthal/history.html"><time datetime="1961"><span class="number-spaced">1961</span></time>–present</a></p>
     </div>
 </article>
 

@@ -396,7 +396,7 @@ footer p {
         border-left: 2px solid #ddd;
         
         &:hover {
-            border-left-color: #2a7ae2;
+            border-left-color: #006B7D;
         }
     }
 }
@@ -559,4 +559,23 @@ p.mark-year {
 
 .number-spaced {
     letter-spacing: 0.05em;
+}
+
+// Link colors - high contrast, distinctive teal
+a {
+    color: #006B7D;
+    
+    &:visited {
+        color: #006B7D; // Same color for visited links
+    }
+    
+    &:hover {
+        color: #004D5A; // Darker on hover for feedback
+        text-decoration: underline;
+    }
+    
+    &:focus {
+        outline: 2px solid #006B7D;
+        outline-offset: 2px;
+    }
 }
