@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Porcelain Marks"
-description: "Porcelain marks from my own collection"
-permalink: /porcelain-marks/
+title: "Marks"
+description: "Porcelain and ceramics marks from my own collection"
+permalink: /marks/
 ---
 
 <div class="marks-page">
 
-<main>
-<h1>Porcelain Marks</h1>
-<p class="marks-intro">Porcelain marks from my own collection.</p>
+<main id="main-content">
+<h1>Marks</h1>
+<p class="marks-intro">Porcelain and ceramics marks from my own collection.</p>
 
 <nav class="marks-toc">
     <strong>Jump to</strong>
@@ -22,9 +22,8 @@ permalink: /porcelain-marks/
     <a href="#meissen">Meissen</a>
     <a href="#porcelanas-ibis">Porcelanas Ibis</a>
     <a href="#rosenthal">Rosenthal</a>
-    <a href="#velsen">Velsen</a>
+    <a href="#societe-ceramique">Société Céramique</a>
     <a href="#villeroy-boch">Villeroy & Boch</a>
-    <a href="#wachtersbach">Wächtersbach</a>
 </nav>
 
 <section id="arabia" class="marks-section">
@@ -37,8 +36,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/arabia-bowl-mark.webp" alt="Arabia mark" style="object-position: 10px 18px; transform: scale(1.2);"></span>
-        <span class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="Arabia Windflower bowl" style="object-position: center 25%;"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-bowl-mark.webp" alt="Green stamped mark reading WINDFLOWER, ARABIA, MADE IN FINLAND, Handpainted, with a crown symbol and artist initials" style="object-position: 10px 18px; transform: scale(1.2);"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="White porcelain bowl with yellow rim and blue concentric rings, featuring a handpainted blue and yellow floral motif in the center" style="object-position: center 25%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">WINDFLOWER<br>ARABIA<br>MADE IN FINLAND<br>Handpainted</p>
@@ -54,8 +53,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.jpeg" alt="Arabia Karelia mark"></span>
-        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.jpeg" alt="Arabia Karelia plate"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.jpeg" alt="Green stamped mark reading ARABIA FINLAND with Karelia pattern name"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.jpeg" alt="White plate with brown geometric border pattern featuring stylized folk art motifs"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">ARABIA<br>FINLAND<br>Karelia</p>
@@ -76,8 +75,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-mark.webp" alt="Blue Danube mark"></span>
-        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-side-view.webp" alt="Blue Danube cup"></span>
+        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-mark.webp" alt="Blue stamped mark reading Blue Danube with registered trademark symbol and Japan"></span>
+        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-side-view.webp" alt="White porcelain cup with scalloped rim and blue Zwiebelmuster onion pattern decoration"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Blue Danube &reg;<br>Japan</p>
@@ -93,13 +92,13 @@ permalink: /porcelain-marks/
 <p>Norwegian ceramics manufacturer founded in <time datetime="1941"><span class="number-spaced">1941</span></time>.</p>
 
 <div class="marks-subsection">
-<h3 class="mark-ruler">Bekkeblom</h3>
+<h3 class="mark-ruler">FIGGJO NORWAY</h3>
 <p class="mark-explanation">The <strong>Bekkeblom</strong> decor was designed by Rolf Frøyland in <time datetime="1979"><span class="number-spaced">1979</span></time>. It features the marsh marigold (&hairsp;Caltha palustris&hairsp;) with Art Nouveau-inspired lines.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-mark.webp" alt="Figgjo Bekkeblom mark"></span>
-        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-top-view.webp" alt="Figgjo Bekkeblom plate"></span>
+        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-mark.webp" alt="Green stamped mark reading FIGGJO NORWAY with Bekkeblom pattern name"></span>
+        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-top-view.webp" alt="White soup plate with Art Nouveau-style marsh marigold decoration featuring yellow flowers and curving green stems"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">FIGGJO<br>NORWAY<br>Bekkeblom</p>
@@ -117,12 +116,12 @@ permalink: /porcelain-marks/
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">XH</h3>
-<p class="mark-explanation">The <strong>XH</strong> mark was used from <time datetime="1893"><span class="number-spaced">1894</span></time> until <time datetime="1896"><span class="number-spaced">1896</span></time>, when the mark was banned after Meissen KPM filed a complaint for imitation of its factory mark.</p>
+<p class="mark-explanation">The <strong>XH</strong> mark was used from <time datetime="1893"><span class="number-spaced">1894</span></time> until <time datetime="1896"><span class="number-spaced">1896</span></time>, when it was banned after Meissen KPM filed a complaint for imitation of its factory mark.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-mark.webp" alt="Franziska Hirsch XH mark"></span>
-        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-top-view.webp" alt="Franziska Hirsch saucer"></span>
+        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-mark.webp" alt="Blue underglaze XH mark resembling crossed swords, the controversial mark that led to a Meissen lawsuit"></span>
+        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-top-view.webp" alt="White porcelain saucer with blue Zwiebelmuster onion pattern featuring stylized flowers and foliage"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text"><em>XH</em></p>
@@ -139,13 +138,13 @@ permalink: /porcelain-marks/
 <p>German porcelain manufacturer founded in Hohenberg, Bavaria in <time datetime="1814"><span class="number-spaced">1814</span></time>.</p>
 
 <div class="marks-subsection">
-<h3 class="mark-ruler"><abbr title="Abteilung">Abt.</abbr> Paul Müller</h3>
+<h3 class="mark-ruler"><abbr title="Abteilung">Abt.</abbr>&nbsp;Paul Müller</h3>
 <p class="mark-explanation">Hutschenreuther acquired the <strong>Paul Müller</strong> porcelain factory in <time datetime="1917"><span class="number-spaced">1917</span></time>.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.webp" alt="Hutschenreuther Abt. Paul Müller mark" style="transform: scale(1.3);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.webp" alt="Hutschenreuther Abt. Paul Müller serving platter" style="object-position: center 55%;"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.webp" alt="Green stamped mark reading Hutschenreuther Abt. Paul Müller Selb with crown symbol" style="transform: scale(1.3);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.webp" alt="Cream porcelain serving platter with delicate blue floral border and gold rim" style="object-position: center 55%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Hutschenreuther<br>Abt. Paul Müller<br>Selb</p>
@@ -160,8 +159,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-mark.webp" alt="Hutschenreuther L.H.S. mark" style="object-position: center 35%;  transform: scale(1.7);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-front.webp" alt="Hutschenreuther floral soup terrine" style="object-position: center 55%;"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-mark.webp" alt="Green stamped mark reading Hutschenreuther Selb L.H.S. BAVARIA GERMANY" style="object-position: center 35%;  transform: scale(1.7);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-front.webp" alt="Cream porcelain lidded soup terrine with two handles, decorated with beige and pink floral sprays and gold trim" style="object-position: center 55%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Hutschenreuther<br>Selb<br>L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.&hairsp;<br>BAVARIA<br>GERMANY</p>
@@ -170,8 +169,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-mark.webp" alt="Hutschenreuther L.H.S. mark on serving platter" style="object-position: center 65%; transform: scale(1.6);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-top.webp" alt="Hutschenreuther floral serving platter" style="object-position: center 58%;"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-mark.webp" alt="Green stamped mark reading Hutschenreuther Selb L.H.S. BAVARIA GERMANY" style="object-position: center 65%; transform: scale(1.6);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-top.webp" alt="Cream porcelain serving platter with beige and pink floral sprays and gold trim, matching the soup terrine" style="object-position: center 58%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Hutschenreuther<br>Selb<br>L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.&hairsp;<br>BAVARIA<br>GERMANY</p>
@@ -188,8 +187,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-mark.webp" alt="Hutschenreuther 1814 mark" style="object-position: center 105%; transform: scale(1.7);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.webp" alt="Hutschenreuther ribbed modern teapot"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-mark.webp" alt="Green stamped mark reading 1814 HUTSCHENREUTHER GERMANY" style="object-position: center 105%; transform: scale(1.7);"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.webp" alt="Modern white porcelain teapot with clean ribbed texture and minimalist design"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text"><span class="number-spaced">1814</span><br>HUTSCHENREUTHER<br>GERMANY</p>
@@ -198,8 +197,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-mark.webp" alt="Hutschenreuther 1814 mark on Zwiebelmuster bowl"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-top-view.webp" alt="Hutschenreuther Zwiebelmuster bowl"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-mark.webp" alt="Green stamped mark reading 1814 HUTSCHENREUTHER GERMANY"></span>
+        <span class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-top-view.webp" alt="Leaf-shaped white porcelain bowl with blue Zwiebelmuster onion pattern and decorative handle"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text"><span class="number-spaced">1814</span><br>HUTSCHENREUTHER<br>GERMANY</p>
@@ -220,8 +219,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-mark.webp" alt="Kahla mark" style="transform: scale(1.6); object-position: center 105%;"></span>
-        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-top.webp" alt="Kahla serving platter"></span>
+        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-mark.webp" alt="Blue stamped rectangular mark reading KAHLA in Bauhaus-influenced geometric style" style="transform: scale(1.6); object-position: center 105%;"></span>
+        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-top.webp" alt="White oval serving platter with scalloped edge, sparse gold lattice motifs, and gold rim"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">KAHLA</p>
@@ -239,12 +238,12 @@ permalink: /porcelain-marks/
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">Crossed Swords</h3>
-<p class="mark-explanation">The <strong>crossed swords</strong> mark, introduced in the <time datetime="1720"><span class="number-spaced">1720</span></time>s, is one of the oldest trademarks in existence. It is based on the arms of the Elector of Saxony.</p>
+<p class="mark-explanation">The <strong>crossed swords</strong> mark, introduced in the <time datetime="1720"><span class="number-spaced">1720</span></time>s, is one of the oldest trademarks. It is based on the arms of the Elector of Saxony.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/meissen-saucer-mark.webp" alt="Meissen crossed swords mark"></span>
-        <span class="img-zoom"><img src="/assets/images/meissen-saucer-top-view.webp" alt="Meissen saucer"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-saucer-mark.webp" alt="Blue underglaze crossed swords mark, the historic Meissen trademark"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-saucer-top-view.webp" alt="Scalloped porcelain saucer with burgundy and gold floral decoration on white ground, gilt rim"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text"><em>Crossed swords</em></p>
@@ -253,8 +252,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/meissen-vase-mark.webp" alt="Meissen crossed swords mark on vase"></span>
-        <span class="img-zoom"><img src="/assets/images/meissen-vase-front-view.webp" alt="Meissen vase"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-vase-mark.webp" alt="Blue underglaze crossed swords mark on the base of a vase"></span>
+        <span class="img-zoom"><img src="/assets/images/meissen-vase-front-view.webp" alt="White porcelain vase with painted landscape scene featuring figures and trees"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text"><em>Crossed swords</em></p>
@@ -274,8 +273,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-mark.webp" alt="Porcelanas Ibis mark"></span>
-        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Porcelanas Ibis vase"></span>
+        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-mark.webp" alt="Blue stamped mark reading PORCELANAS ÍBIS AVEIRO PORTUGAL"></span>
+        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Cylindrical white porcelain vase with teal blue floral bouquet decoration"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">PORCELANAS<br>ÍBIS<br>AVEIRO<br>PORTUGAL</p>
@@ -296,8 +295,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-mark.webp" alt="Rosenthal SELB-BAVARIA mark" style="object-position: center 105%; transform: scale(1.4);"></span>
-        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-top.webp" alt="Rosenthal Donatello serving platter"></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-mark.webp" alt="Green stamped mark with crown, reading Rosenthal SELB-BAVARIA DONATELLO" style="object-position: center 105%; transform: scale(1.4);"></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-top.webp" alt="Round white porcelain serving platter with two handles, decorated with colorful floral bouquets in pink, blue, and orange"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Rosenthal<br>SELB-BAVARIA<br>DONATELLO</p>
@@ -313,12 +312,12 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-selb-germany-mark.jpeg" alt="Rosenthal SELB-GERMANY mark"></span>
-        <span class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-front-view.jpeg" alt="Rosenthal Cattleya vase"></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-selb-germany-mark.jpeg" alt="Green stamped mark with crown, reading Rosenthal SELB-GERMANY, with a dot above the crown indicating 1941"></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-front-view.jpeg" alt="Spherical black porcelain vase with handpainted Cattleya orchids in lavender, pink, yellow and green"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Rosenthal<br>SELB-GERMANY<br>Cattleya</p>
-        <p class="mark-year">Mark period: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1941"><span class="number-spaced">1941</span></time></a></cite></p>
+        <p class="mark-year">Mark year: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1941"><span class="number-spaced">1941</span></time></a></cite></p>
     </div>
 </article>
 
@@ -330,12 +329,35 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-mark.webp" alt="Rosenthal Studio Line mark"></span>
-        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-front-view.webp" alt="Rosenthal Studio Line bowl"></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-mark.webp" alt="Green stamped mark reading Rosenthal studio-linie GERMANY"></span>
+        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-front-view.webp" alt="Minimalist white porcelain bowl with clean modern lines and subtle horizontal groove detail"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">Rosenthal<br>studio-linie<br>GERMANY</p>
         <p class="mark-year">Studio-linie mark period: <a target="_blank" rel="noopener" href="https://www.rosenthal.de/en-de/fascination-of-rosenthal/history.html"><time datetime="1961"><span class="number-spaced">1961</span></time>–present</a></p>
+    </div>
+</article>
+
+</div>
+
+</section>
+
+<section id="societe-ceramique" class="marks-section">
+<h2>Société Céramique</h2>
+<p>Dutch earthenware manufacturer founded in <time datetime="1863"><span class="number-spaced">1863</span></time> in Maastricht.</p>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">Lion</h3>
+<p class="mark-explanation">The mark features the <strong>Limburg lion</strong>, the province&rsquo;s heraldic symbol.</p>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/societe-ceramique-platter-mark.webp" alt="Brown stamped circular mark featuring the Limburg lion rampant, reading SOCIÉTÉ CÉRAMIQUE MAASTRICHT MADE IN HOLLAND"></span>
+        <span class="img-zoom"><img src="/assets/images/societe-ceramique-platter-top-view.webp" alt="Cream earthenware platter with rounded square shape, cobalt blue rim, decorated with scattered blue flowers with pink and orange centers"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text">SOCIÉTÉ CÉRAMIQUE<br>MAASTRICHT<br>MADE IN HOLLAND</p>
+        <p class="mark-year">Production year: <time datetime="1940"><span class="number-spaced">1940</span></time> <small>(&hairsp;marked&hairsp;)</small></p>
     </div>
 </article>
 
@@ -353,8 +375,8 @@ permalink: /porcelain-marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.png" alt="Villeroy & Boch Dresden mark"></span>
-        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-front.webp" alt="Villeroy & Boch Dresden teapot"></span>
+        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.png" alt="Blue stamped mark showing Mercury figure atop a shield, reading VILLEROY & BOCH DRESDEN"></span>
+        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-front.webp" alt="White porcelain teapot with vertical ribbed texture and delicate blue floral sprigs"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">VILLEROY & BOCH<br>DRESDEN</p>

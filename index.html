@@ -11,7 +11,7 @@ title: VintageBas
         <article>
           {% if post.image %}
           <a href="{{ post.url | relative_url }}" class="post-thumbnail">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}"
+            <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}"
                  style="{% if post.thumbnail.scale %}transform: scale({{ post.thumbnail.scale }});{% endif %}{% if post.thumbnail.position %}object-position: {{ post.thumbnail.position }};{% endif %}">
           </a>
           {% endif %}
