@@ -117,7 +117,7 @@ permalink: /marks/
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">F Mark</h3>
-<p class="mark-explanation">The <strong>F</strong> mark, representing <strong>&ldquo;&hairsp;Fürstenberg&hairsp;&rdquo;</strong>, has been used since the factory&rsquo;s founding.</p>
+<p class="mark-explanation">The <strong>F</strong> mark, representing <strong>&ldquo;&hairsp;Fürstenberg&hairsp;&rdquo;</strong>, has been used since the factory's founding.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
