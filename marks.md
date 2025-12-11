@@ -16,6 +16,7 @@ permalink: /marks/
     <a href="#arabia">Arabia</a>
     <a href="#blue-danube">Blue Danube</a>
     <a href="#figgjo">Figgjo</a>
+    <a href="#furstenberg">Fürstenberg</a>
     <a href="#franziska-hirsch">Hirsch, Franziska</a>
     <a href="#hutschenreuther">Hutschenreuther</a>
     <a href="#kahla">Kahla</a>
@@ -103,6 +104,28 @@ permalink: /marks/
     <div class="mark-info">
         <p class="mark-text">FIGGJO<br>NORWAY<br>Bekkeblom</p>
         <p class="mark-year">Production period: <cite><a target="_blank" rel="noopener" href="https://www.jaermuseet.no/samlingar/wp-content/uploads/sites/16/2016/04/2012.3-Rolf-Fr%C3%B8yland-danser-polka-p%C3%A5-11-mm.pdf"><time datetime="1979"><span class="number-spaced">1979</span></time>&ndash;<time datetime="1985"><span class="number-spaced">1985</span></time></a></cite></p>
+    </div>
+</article>
+
+</div>
+
+</section>
+
+<section id="furstenberg" class="marks-section">
+<h2>Fürstenberg</h2>
+<p>One of Germany's oldest porcelain manufacturers, founded in <time datetime="1747"><span class="number-spaced">1747</span></time> in Fürstenberg, Lower Saxony. Still in operation today.</p>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">F Mark</h3>
+<p class="mark-explanation">The <strong>F</strong> mark, representing <strong>&ldquo;&hairsp;Fürstenberg&hairsp;&rdquo;</strong>, has been used since the factory&rsquo;s founding.</p>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-mark-detail.jpg" alt="Blue underglaze F mark, the historic Fürstenberg trademark"></span>
+        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-front-view.jpg" alt="White porcelain teapot with Fürstenberg mark"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text">F<br>FÜRSTENBERG<br>GERMANY</p>
     </div>
 </article>
 
