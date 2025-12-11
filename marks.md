@@ -24,6 +24,7 @@ permalink: /marks/
     <a href="#porcelanas-ibis">Porcelanas Ibis</a>
     <a href="#rosenthal">Rosenthal</a>
     <a href="#societe-ceramique">Société Céramique</a>
+    <a href="#velsen">Velsen</a>
     <a href="#villeroy-boch">Villeroy & Boch</a>
     <a href="#waechtersbach">Wächtersbach</a>
 </nav>
@@ -38,8 +39,8 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/arabia-bowl-mark.webp" alt="Green stamped mark reading WINDFLOWER, ARABIA, MADE IN FINLAND, Handpainted, with a crown symbol and artist initials" style="object-position: 10px 18px; transform: scale(1.2);"></span>
-        <span class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="White porcelain bowl with yellow rim and blue concentric rings, featuring a handpainted blue and yellow floral motif in the center" style="object-position: center 25%;"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-bowl-mark.webp" alt="Green stamped mark reading WINDFLOWER with crown, ARABIA, MADE IN FINLAND, Handpainted in script, and artist initials" style="object-position: 10px 18px; transform: scale(1.2);"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="White bowl with yellow rim and blue ring, featuring a hand-painted blue and yellow floral motif in the center" style="object-position: center 25%;"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">WINDFLOWER<br>ARABIA<br>MADE IN FINLAND<br>Handpainted</p>
@@ -55,8 +56,8 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.jpeg" alt="Green stamped mark reading ARABIA FINLAND with Karelia pattern name"></span>
-        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.jpeg" alt="White plate with brown geometric border pattern featuring stylized folk art motifs"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.jpeg" alt="Brown stamped mark with crown, ARABIA, FINLAND, Karelia in script, and DISHWASHER-PROOF"></span>
+        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.jpeg" alt="Cream plate with brown concentric bands at the rim"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">ARABIA<br>FINLAND<br>Karelia</p>
@@ -99,11 +100,11 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-mark.webp" alt="Green stamped mark reading FIGGJO NORWAY with Bekkeblom pattern name"></span>
+        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-mark.webp" alt="Green stamped mark with boxed FIGGJO NORWAY logo, V V555 model number, and Bekkeblom in script"></span>
         <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-top-view.webp" alt="White soup plate with Art Nouveau-style marsh marigold decoration featuring yellow flowers and curving green stems"></span>
     </div>
     <div class="mark-info">
-        <p class="mark-text">FIGGJO<br>NORWAY<br>Bekkeblom</p>
+        <p class="mark-text">FIGGJO<br>NORWAY<br>V&emsp;V555<br>Bekkeblom</p>
         <p class="mark-year">Production period: <cite><a target="_blank" rel="noopener" href="https://www.jaermuseet.no/samlingar/wp-content/uploads/sites/16/2016/04/2012.3-Rolf-Fr%C3%B8yland-danser-polka-p%C3%A5-11-mm.pdf"><time datetime="1979"><span class="number-spaced">1979</span></time>&ndash;<time datetime="1985"><span class="number-spaced">1985</span></time></a></cite></p>
     </div>
 </article>
@@ -122,8 +123,8 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-mark-detail.jpg" alt="Blue underglaze F mark, the historic Fürstenberg trademark"></span>
-        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-front-view.jpg" alt="White porcelain teapot with Fürstenberg mark"></span>
+        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-mark-detail.jpg" alt="Blue underglaze crowned F mark with FÜRSTENBERG GERMANY text below"></span>
+        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-front-view.jpg" alt="White porcelain coffee pot with green floral garland border and rose finial on lid"></span>
     </div>
     <div class="mark-info">
         <p class="mark-text">F<br>FÜRSTENBERG<br>GERMANY</p>
@@ -382,6 +383,28 @@ permalink: /marks/
     <div class="mark-info">
         <p class="mark-text">SOCIÉTÉ CÉRAMIQUE<br>MAASTRICHT<br>MADE IN HOLLAND</p>
         <p class="mark-year">Production year: <time datetime="1940"><span class="number-spaced">1940</span></time> <small>(&hairsp;marked&hairsp;)</small></p>
+    </div>
+</article>
+
+</div>
+
+</section>
+
+<section id="velsen" class="marks-section">
+<h2>Velsen</h2>
+<p>Dutch pottery manufacturer, originally established as Potterie Kennemerland in <time datetime="1920"><span class="number-spaced">1920</span></time></p>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">Velsen Delfts</h3>
+<p class="mark-explanation">The <strong>&ldquo;&hairsp;Velsen Delfts&hairsp;&rdquo;</strong> mark identifies the manufacturer and the Delft-style model.</p>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/velsen-delfts-vase-mark.jpeg" alt="Blue stamped mark showing Velsen written inside a vase outline with crown, and Delfts below"></span>
+        <span class="img-zoom"><img src="/assets/images/velsen-delfts-vase-front.jpeg" alt="White glazed hexagonal vase with flared rim and vertical ribbed body"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text">Velsen<br>Delfts</p>
     </div>
 </article>
 
