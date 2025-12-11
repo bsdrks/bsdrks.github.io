@@ -5,6 +5,7 @@ title: VintageBas
 
 <div class="home">
 
+<main id="main-content">
   <div class="home-intro">
     <p class="home-description">{{ site.description }}</p>
   </div>
@@ -16,6 +17,7 @@ title: VintageBas
           {% if post.image %}
           <a href="{{ post.url | relative_url }}" class="post-thumbnail">
             <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}"
+                 loading="lazy"
                  style="{% if post.thumbnail.scale %}transform: scale({{ post.thumbnail.scale }});{% endif %}{% if post.thumbnail.position %}object-position: {{ post.thumbnail.position }};{% endif %}">
           </a>
           {% endif %}
@@ -33,5 +35,6 @@ title: VintageBas
       </li>
     {% endfor %}
   </ul>
+</main>
 
 </div>

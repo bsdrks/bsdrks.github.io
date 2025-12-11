@@ -39,11 +39,14 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/arabia-bowl-mark.webp" alt="Green stamped mark reading WINDFLOWER with crown, ARABIA, MADE IN FINLAND, Handpainted in script, and artist initials" style="object-position: 10px 18px; transform: scale(1.2);"></span>
-        <span class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="White bowl with yellow rim and blue ring, featuring a hand-painted blue and yellow floral motif in the center" style="object-position: center 25%;"></span>
+        <figure class="img-zoom"><img src="/assets/images/arabia-bowl-mark.webp" alt="Green stamped mark reading WINDFLOWER with crown, ARABIA, MADE IN FINLAND, Handpainted in script, and artist initials" loading="lazy" style="object-position: 10px 18px; transform: scale(1.2);"></figure>
+        <figure class="img-zoom"><img src="/assets/images/arabia-bowl-top.webp" alt="White bowl with yellow rim and blue ring, featuring a hand-painted blue and yellow floral motif in the center" loading="lazy" style="object-position: center 25%;"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">WINDFLOWER<br>ARABIA<br>MADE IN FINLAND<br>Handpainted</p>
+        <pre class="mark-text">WINDFLOWER
+ARABIA
+MADE IN FINLAND
+Handpainted</pre>
         <p class="mark-year">Production period: <a target="_blank" rel="noopener" href="https://collections.vam.ac.uk/item/O167711/windflower-plate-osol-olga/"><time datetime="1956"><span class="number-spaced">1956</span></time>&ndash;<time datetime="1966"><span class="number-spaced">1966</span></time></a></p>
     </div>
 </article>
@@ -52,15 +55,17 @@ permalink: /marks/
 
 <div class="marks-subsection">
 <h3 class="mark-ruler">Karelia</h3>
-<p class="mark-explanation">The <strong>Karelia</strong> decor was designed by Anja Jaatinen-Winquist and named after the Finland region.</p>
+<p class="mark-explanation">The <strong>Karelia</strong> decor was designed by Anja Jaatinen-Winquist and named after the Finnish region.</p>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.jpeg" alt="Brown stamped mark with crown, ARABIA, FINLAND, Karelia in script, and DISHWASHER-PROOF"></span>
-        <span class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.jpeg" alt="Cream plate with brown concentric bands at the rim"></span>
+        <figure class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.jpeg" alt="Brown stamped mark with crown, ARABIA, FINLAND, Karelia in script, and DISHWASHER-PROOF" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.jpeg" alt="Cream plate with brown concentric bands at the rim" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">ARABIA<br>FINLAND<br>Karelia</p>
+        <pre class="mark-text">ARABIA
+FINLAND
+Karelia</pre>
         <p class="mark-year">Production period: <time datetime="1970"><span class="number-spaced">1970</span></time>&ndash;<time datetime="1986"><span class="number-spaced">1986</span></time></p>
     </div>
 </article>
@@ -78,11 +83,12 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-mark.webp" alt="Blue stamped mark reading Blue Danube with registered trademark symbol and Japan"></span>
-        <span class="img-zoom"><img src="/assets/images/blue-danube-cup-side-view.webp" alt="White porcelain cup with scalloped rim and blue Zwiebelmuster onion pattern decoration"></span>
+        <figure class="img-zoom"><img src="/assets/images/blue-danube-cup-mark.webp" alt="Blue stamped mark reading Blue Danube with registered trademark symbol and Japan" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/blue-danube-cup-side-view.webp" alt="White porcelain cup with scalloped rim and blue Zwiebelmuster onion pattern decoration" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Blue Danube &reg;<br>Japan</p>
+        <pre class="mark-text">Blue Danube &reg;
+Japan</pre>
     </div>
 </article>
 
@@ -100,11 +106,14 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-mark.webp" alt="Green stamped mark with boxed FIGGJO NORWAY logo, V V555 model number, and Bekkeblom in script"></span>
-        <span class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-top-view.webp" alt="White soup plate with Art Nouveau-style marsh marigold decoration featuring yellow flowers and curving green stems"></span>
+        <figure class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-mark.webp" alt="Green stamped mark with boxed FIGGJO NORWAY logo, V V555 model number, and Bekkeblom in script" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/figgjo-bekkeblom-plate-top-view.webp" alt="White soup plate with Art Nouveau-style marsh marigold decoration featuring yellow flowers and curving green stems" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">FIGGJO<br>NORWAY<br>V&emsp;V555<br>Bekkeblom</p>
+        <pre class="mark-text">FIGGJO
+NORWAY
+V&emsp;V555
+Bekkeblom</pre>
         <p class="mark-year">Production period: <cite><a target="_blank" rel="noopener" href="https://www.jaermuseet.no/samlingar/wp-content/uploads/sites/16/2016/04/2012.3-Rolf-Fr%C3%B8yland-danser-polka-p%C3%A5-11-mm.pdf"><time datetime="1979"><span class="number-spaced">1979</span></time>&ndash;<time datetime="1985"><span class="number-spaced">1985</span></time></a></cite></p>
     </div>
 </article>
@@ -123,11 +132,13 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-mark-detail.jpg" alt="Blue underglaze crowned F mark with FÜRSTENBERG GERMANY text below"></span>
-        <span class="img-zoom"><img src="/assets/images/furstenberg-teapot-front-view.jpg" alt="White porcelain coffee pot with green floral garland border and rose finial on lid"></span>
+        <figure class="img-zoom"><img src="/assets/images/furstenberg-teapot-mark-detail.jpg" alt="Blue underglaze crowned F mark with FÜRSTENBERG GERMANY text below" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/furstenberg-teapot-front-view.jpg" alt="White porcelain coffee pot with green floral garland border and rose finial on lid" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">F<br>FÜRSTENBERG<br>GERMANY</p>
+        <pre class="mark-text">F
+FÜRSTENBERG
+GERMANY</pre>
     </div>
 </article>
 
@@ -145,11 +156,11 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-mark.webp" alt="Blue underglaze XH mark resembling crossed swords, the controversial mark that led to a Meissen lawsuit"></span>
-        <span class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-top-view.webp" alt="White porcelain saucer with blue Zwiebelmuster onion pattern featuring stylized flowers and foliage"></span>
+        <figure class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-mark.webp" alt="Blue underglaze XH mark resembling crossed swords, the controversial mark that led to a Meissen lawsuit" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/franziska-hirsch-saucer-top-view.webp" alt="White porcelain saucer with blue Zwiebelmuster onion pattern featuring stylized flowers and foliage" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text"><em>XH</em></p>
+        <pre class="mark-text"><em>XH</em></pre>
         <p class="mark-year">Mark period: <time datetime="1894"><span class="number-spaced">1894</span></time>&ndash;<time datetime="1896"><span class="number-spaced">1896</span></time></p>
     </div>
 </article>
@@ -168,11 +179,13 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.webp" alt="Green stamped mark reading Hutschenreuther Abt. Paul Müller Selb with crown symbol" style="transform: scale(1.3);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.webp" alt="Cream porcelain serving platter with delicate blue floral border and gold rim" style="object-position: center 55%;"></span>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-mark.webp" alt="Green stamped mark reading Hutschenreuther Abt. Paul Müller Selb with crown symbol" loading="lazy" style="transform: scale(1.3);"></figure>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-abt-paul-muller-serving-platter-top.webp" alt="Cream porcelain serving platter with delicate blue floral border and gold rim" loading="lazy" style="object-position: center 55%;"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Hutschenreuther<br>Abt. Paul Müller<br>Selb</p>
+        <pre class="mark-text">Hutschenreuther
+Abt. Paul Müller
+Selb</pre>
         <p class="mark-year">Production year: <time datetime="1949"><span class="number-spaced">1949</span></time> <small>(&hairsp;marked&hairsp;)</small></p>
     </div>
 </article>
@@ -184,21 +197,29 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-mark.webp" alt="Green stamped mark reading Hutschenreuther Selb L.H.S. BAVARIA GERMANY" style="object-position: center 35%;  transform: scale(1.7);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-front.webp" alt="Cream porcelain lidded soup terrine with two handles, decorated with beige and pink floral sprays and gold trim" style="object-position: center 55%;"></span>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-mark.webp" alt="Green stamped mark reading Hutschenreuther Selb L.H.S. BAVARIA GERMANY" loading="lazy" style="object-position: center 35%;  transform: scale(1.7);"></figure>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-floral-soup-terrine-front.webp" alt="Cream porcelain lidded soup terrine with two handles, decorated with beige and pink floral sprays and gold trim" loading="lazy" style="object-position: center 55%;"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Hutschenreuther<br>Selb<br>L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.&hairsp;<br>BAVARIA<br>GERMANY</p>
+        <pre class="mark-text">Hutschenreuther
+Selb
+L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.&hairsp;
+BAVARIA
+GERMANY</pre>
     </div>
 </article>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-mark.webp" alt="Green stamped mark reading Hutschenreuther Selb L.H.S. BAVARIA GERMANY" style="object-position: center 65%; transform: scale(1.6);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-top.webp" alt="Cream porcelain serving platter with beige and pink floral sprays and gold trim, matching the soup terrine" style="object-position: center 58%;"></span>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-mark.webp" alt="Green stamped mark reading Hutschenreuther Selb L.H.S. BAVARIA GERMANY" loading="lazy" style="object-position: center 65%; transform: scale(1.6);"></figure>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-floral-serving-platter-top.webp" alt="Cream porcelain serving platter with beige and pink floral sprays and gold trim, matching the soup terrine" loading="lazy" style="object-position: center 58%;"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Hutschenreuther<br>Selb<br>L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.&hairsp;<br>BAVARIA<br>GERMANY</p>
+        <pre class="mark-text">Hutschenreuther
+Selb
+L&hairsp;.&hairsp;H&hairsp;.&hairsp;S.&hairsp;
+BAVARIA
+GERMANY</pre>
     </div>
 </article>
 
@@ -212,21 +233,25 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-mark.webp" alt="Green stamped mark reading 1814 HUTSCHENREUTHER GERMANY" style="object-position: center 105%; transform: scale(1.7);"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.webp" alt="Modern white porcelain teapot with clean ribbed texture and minimalist design"></span>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-mark.webp" alt="Green stamped mark reading 1814 HUTSCHENREUTHER GERMANY" loading="lazy" style="object-position: center 105%; transform: scale(1.7);"></figure>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-ribbed-modern-teapot-front.webp" alt="Modern white porcelain teapot with clean ribbed texture and minimalist design" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text"><span class="number-spaced">1814</span><br>HUTSCHENREUTHER<br>GERMANY</p>
+        <pre class="mark-text"><span class="number-spaced">1814</span>
+HUTSCHENREUTHER
+GERMANY</pre>
     </div>
 </article>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-mark.webp" alt="Green stamped mark reading 1814 HUTSCHENREUTHER GERMANY"></span>
-        <span class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-top-view.webp" alt="Leaf-shaped white porcelain bowl with blue Zwiebelmuster onion pattern and decorative handle"></span>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-mark.webp" alt="Green stamped mark reading 1814 HUTSCHENREUTHER GERMANY" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/hutschenreuther-zwiebelmuster-bowl-top-view.webp" alt="Leaf-shaped white porcelain bowl with blue Zwiebelmuster onion pattern and decorative handle" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text"><span class="number-spaced">1814</span><br>HUTSCHENREUTHER<br>GERMANY</p>
+        <pre class="mark-text"><span class="number-spaced">1814</span>
+HUTSCHENREUTHER
+GERMANY</pre>
     </div>
 </article>
 
@@ -244,11 +269,11 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-mark.webp" alt="Blue stamped rectangular mark reading KAHLA in Bauhaus-influenced geometric style" style="transform: scale(1.6); object-position: center 105%;"></span>
-        <span class="img-zoom"><img src="/assets/images/kahla-serving-platter-top.webp" alt="White oval serving platter with scalloped edge, sparse gold lattice motifs, and gold rim"></span>
+        <figure class="img-zoom"><img src="/assets/images/kahla-serving-platter-mark.webp" alt="Blue stamped rectangular mark reading KAHLA in Bauhaus-influenced geometric style" loading="lazy" style="transform: scale(1.6); object-position: center 105%;"></figure>
+        <figure class="img-zoom"><img src="/assets/images/kahla-serving-platter-top.webp" alt="White oval serving platter with scalloped edge, sparse gold lattice motifs, and gold rim" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">KAHLA</p>
+        <pre class="mark-text">KAHLA</pre>
         <p class="mark-year">Production year: <time datetime="1948"><span class="number-spaced">1948</span></time> <small>(&hairsp;marked&hairsp;)</small></p>
     </div>
 </article>
@@ -267,21 +292,21 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/meissen-saucer-mark.webp" alt="Blue underglaze crossed swords mark, the historic Meissen trademark"></span>
-        <span class="img-zoom"><img src="/assets/images/meissen-saucer-top-view.webp" alt="Scalloped porcelain saucer with burgundy and gold floral decoration on white ground, gilt rim"></span>
+        <figure class="img-zoom"><img src="/assets/images/meissen-saucer-mark.webp" alt="Blue underglaze crossed swords mark, the historic Meissen trademark" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/meissen-saucer-top-view.webp" alt="Scalloped porcelain saucer with burgundy and gold floral decoration on white ground, gilt rim" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text"><em>Crossed swords</em></p>
+        <pre class="mark-text"><em>Crossed swords</em></pre>
     </div>
 </article>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/meissen-vase-mark.webp" alt="Blue underglaze crossed swords mark on the base of a vase"></span>
-        <span class="img-zoom"><img src="/assets/images/meissen-vase-front-view.webp" alt="White porcelain vase with painted landscape scene featuring figures and trees"></span>
+        <figure class="img-zoom"><img src="/assets/images/meissen-vase-mark.webp" alt="Blue underglaze crossed swords mark on the base of a vase" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/meissen-vase-front-view.webp" alt="White porcelain vase with painted landscape scene featuring figures and trees" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text"><em>Crossed swords</em></p>
+        <pre class="mark-text"><em>Crossed swords</em></pre>
     </div>
 </article>
 
@@ -298,11 +323,14 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-mark.webp" alt="Blue stamped mark reading PORCELANAS ÍBIS AVEIRO PORTUGAL"></span>
-        <span class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Cylindrical white porcelain vase with teal blue floral bouquet decoration"></span>
+        <figure class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-mark.webp" alt="Blue stamped mark reading PORCELANAS ÍBIS AVEIRO PORTUGAL" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Cylindrical white porcelain vase with teal blue floral bouquet decoration" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">PORCELANAS<br>ÍBIS<br>AVEIRO<br>PORTUGAL</p>
+        <pre class="mark-text">PORCELANAS
+ÍBIS
+AVEIRO
+PORTUGAL</pre>
     </div>
 </article>
 
@@ -320,11 +348,13 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-mark.webp" alt="Green stamped mark with crown, reading Rosenthal SELB-BAVARIA DONATELLO" style="object-position: center 105%; transform: scale(1.4);"></span>
-        <span class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-top.webp" alt="Round white porcelain serving platter with two handles, decorated with colorful floral bouquets in pink, blue, and orange"></span>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-mark.webp" alt="Green stamped mark with crown, reading Rosenthal SELB-BAVARIA DONATELLO" loading="lazy" style="object-position: center 105%; transform: scale(1.4);"></figure>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-donatello-serving-platter-top.webp" alt="Round white porcelain serving platter with two handles, decorated with colorful floral bouquets in pink, blue, and orange" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Rosenthal<br>SELB-BAVARIA<br>DONATELLO</p>
+        <pre class="mark-text">Rosenthal
+SELB-BAVARIA
+DONATELLO</pre>
         <p class="mark-year">Mark period: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1922"><span class="number-spaced">1922</span></time>&ndash;<time datetime="1933"><span class="number-spaced">1933</span></time></a></cite></p>
     </div>
 </article>
@@ -337,11 +367,13 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-selb-germany-mark.jpeg" alt="Green stamped mark with crown, reading Rosenthal SELB-GERMANY, with a dot above the crown indicating 1941"></span>
-        <span class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-front-view.jpeg" alt="Spherical black porcelain vase with handpainted Cattleya orchids in lavender, pink, yellow and green"></span>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-selb-germany-mark.jpeg" alt="Green stamped mark with crown, reading Rosenthal SELB-GERMANY, with a dot above the crown indicating 1941" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-front-view.jpeg" alt="Spherical black porcelain vase with handpainted Cattleya orchids in lavender, pink, yellow and green" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Rosenthal<br>SELB-GERMANY<br>Cattleya</p>
+        <pre class="mark-text">Rosenthal
+SELB-GERMANY
+Cattleya</pre>
         <p class="mark-year">Mark year: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1941"><span class="number-spaced">1941</span></time></a></cite></p>
     </div>
 </article>
@@ -354,11 +386,13 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-mark.webp" alt="Green stamped mark reading Rosenthal studio-linie GERMANY"></span>
-        <span class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-front-view.webp" alt="Minimalist white porcelain bowl with clean modern lines and subtle horizontal groove detail"></span>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-mark.webp" alt="Green stamped mark reading Rosenthal studio-linie GERMANY" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-studioline-bowl-front-view.webp" alt="Minimalist white porcelain bowl with clean modern lines and subtle horizontal groove detail" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Rosenthal<br>studio-linie<br>GERMANY</p>
+        <pre class="mark-text">Rosenthal
+studio-linie
+GERMANY</pre>
         <p class="mark-year">Studio-linie mark period: <a target="_blank" rel="noopener" href="https://www.rosenthal.de/en-de/fascination-of-rosenthal/history.html"><time datetime="1961"><span class="number-spaced">1961</span></time>–present</a></p>
     </div>
 </article>
@@ -377,11 +411,13 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/societe-ceramique-platter-mark.webp" alt="Brown stamped circular mark featuring the Limburg lion rampant, reading SOCIÉTÉ CÉRAMIQUE MAASTRICHT MADE IN HOLLAND"></span>
-        <span class="img-zoom"><img src="/assets/images/societe-ceramique-platter-top-view.webp" alt="Cream earthenware platter with rounded square shape, cobalt blue rim, decorated with scattered blue flowers with pink and orange centers"></span>
+        <figure class="img-zoom"><img src="/assets/images/societe-ceramique-platter-mark.webp" alt="Brown stamped circular mark featuring the Limburg lion rampant, reading SOCIÉTÉ CÉRAMIQUE MAASTRICHT MADE IN HOLLAND" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/societe-ceramique-platter-top-view.webp" alt="Cream earthenware platter with rounded square shape, cobalt blue rim, decorated with scattered blue flowers with pink and orange centers" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">SOCIÉTÉ CÉRAMIQUE<br>MAASTRICHT<br>MADE IN HOLLAND</p>
+        <pre class="mark-text">SOCIÉTÉ CÉRAMIQUE
+MAASTRICHT
+MADE IN HOLLAND</pre>
         <p class="mark-year">Production year: <time datetime="1940"><span class="number-spaced">1940</span></time> <small>(&hairsp;marked&hairsp;)</small></p>
     </div>
 </article>
@@ -400,11 +436,12 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/velsen-delfts-vase-mark.jpeg" alt="Blue stamped mark showing Velsen written inside a vase outline with crown, and Delfts below"></span>
-        <span class="img-zoom"><img src="/assets/images/velsen-delfts-vase-front.jpeg" alt="White glazed hexagonal vase with flared rim and vertical ribbed body"></span>
+        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-mark.jpeg" alt="Blue stamped mark showing Velsen written inside a vase outline with crown, and Delfts below" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-front.jpeg" alt="White glazed hexagonal vase with flared rim and vertical ribbed body" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Velsen<br>Delfts</p>
+        <pre class="mark-text">Velsen
+Delfts</pre>
     </div>
 </article>
 
@@ -422,11 +459,12 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.png" alt="Blue stamped mark showing Mercury figure atop a shield, reading VILLEROY & BOCH DRESDEN"></span>
-        <span class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-front.webp" alt="White porcelain teapot with vertical ribbed texture and delicate blue floral sprigs"></span>
+        <figure class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.png" alt="Blue stamped mark showing Mercury figure atop a shield, reading VILLEROY & BOCH DRESDEN" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-front.webp" alt="White porcelain teapot with vertical ribbed texture and delicate blue floral sprigs" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">VILLEROY & BOCH<br>DRESDEN</p>
+        <pre class="mark-text">VILLEROY & BOCH
+DRESDEN</pre>
         <p class="mark-year">Mark period: <time datetime="1874"><span class="number-spaced">1874</span></time>&ndash;<time datetime="1909"><span class="number-spaced">1909</span></time> <small>(&hairsp;online consensus&hairsp;)</small></p>
     </div>
 </article>
@@ -445,11 +483,14 @@ permalink: /marks/
 
 <article class="mark-entry">
     <div class="mark-images">
-        <span class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-mark.jpg" alt="Stamped mark showing Wächtersbach crown logo with text"></span>
-        <span class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.jpg" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen"></span>
+        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-mark.jpg" alt="Stamped mark showing Wächtersbach crown logo with text" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.jpg" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen" loading="lazy"></figure>
     </div>
     <div class="mark-info">
-        <p class="mark-text">Wächtersbach<br>Made in<br>Western Germany<br>Bremen</p>
+        <pre class="mark-text">Wächtersbach
+Made in
+Western Germany
+Bremen</pre>
     </div>
 </article>
 
