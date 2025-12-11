@@ -101,6 +101,92 @@
 }
 </script>
 {% endif %}
+{% elsif page.url == '/marks/' %}
+{%- comment -%} CollectionPage and ItemList schema for marks page {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | jsonify }}
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Arabia",
+        "url": "{{ page.url | absolute_url }}#arabia"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blue Danube",
+        "url": "{{ page.url | absolute_url }}#blue-danube"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Figgjo",
+        "url": "{{ page.url | absolute_url }}#figgjo"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Hirsch, Franziska",
+        "url": "{{ page.url | absolute_url }}#franziska-hirsch"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Hutschenreuther",
+        "url": "{{ page.url | absolute_url }}#hutschenreuther"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Kahla",
+        "url": "{{ page.url | absolute_url }}#kahla"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Meissen",
+        "url": "{{ page.url | absolute_url }}#meissen"
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Porcelanas Íbis",
+        "url": "{{ page.url | absolute_url }}#porcelanas-ibis"
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "name": "Rosenthal",
+        "url": "{{ page.url | absolute_url }}#rosenthal"
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "name": "Société Céramique",
+        "url": "{{ page.url | absolute_url }}#societe-ceramique"
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "name": "Villeroy & Boch",
+        "url": "{{ page.url | absolute_url }}#villeroy-boch"
+      }
+    ]
+  }
+}
+</script>
 {% elsif page.layout == 'default' or page.url == '/' %}
 <script type="application/ld+json">
 {

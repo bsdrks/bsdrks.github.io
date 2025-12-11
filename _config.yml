@@ -34,3 +34,6 @@ exclude:
 social:
   vinted: "https://www.vinted.nl/member/306299073"
   instagram: "https://www.instagram.com/vintagebas"
+
+# Google Analytics 4 (GA4) - Add your Measurement ID here (e.g., G-XXXXXXXXXX)
+google_analytics: G-BWQSYT72DL

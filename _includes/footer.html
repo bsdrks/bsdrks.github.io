@@ -1,9 +1,14 @@
 <footer class="site-footer">
     <div class="wrapper">
-        <p>
-            <a href="https://www.vinted.nl/member/306299073" target="_blank" rel="noopener">My Vinted Shop</a>
-            &emsp;
-            © <time datetime="{{ site.time | date_to_xmlschema }}"><span class="number-spaced">{{ site.time | date: "%Y" }}</span></time> VintageBas
-        </p>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="https://www.vinted.nl/member/306299073" target="_blank" rel="noopener">Vinted Shop</a>
+                <a href="https://www.instagram.com/vintagebas" target="_blank" rel="noopener">Instagram</a>
+                <a href="{{ "/feed.xml" | relative_url }}">RSS Feed</a>
+            </div>
+            <p class="footer-copyright">
+                © <time datetime="{{ site.time | date_to_xmlschema }}"><span class="number-spaced">{{ site.time | date: "%Y" }}</span></time> {{ site.title }}
+            </p>
+        </div>
     </div>
 </footer>
