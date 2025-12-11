@@ -25,6 +25,7 @@ permalink: /marks/
     <a href="#rosenthal">Rosenthal</a>
     <a href="#societe-ceramique">Société Céramique</a>
     <a href="#villeroy-boch">Villeroy & Boch</a>
+    <a href="#waechtersbach">Wächtersbach</a>
 </nav>
 
 <section id="arabia" class="marks-section">
@@ -404,6 +405,28 @@ permalink: /marks/
     <div class="mark-info">
         <p class="mark-text">VILLEROY & BOCH<br>DRESDEN</p>
         <p class="mark-year">Mark period: <time datetime="1874"><span class="number-spaced">1874</span></time>&ndash;<time datetime="1909"><span class="number-spaced">1909</span></time> <small>(&hairsp;online consensus&hairsp;)</small></p>
+    </div>
+</article>
+
+</div>
+
+</section>
+
+<section id="waechtersbach" class="marks-section">
+<h2>Wächtersbach</h2>
+<p>German earthenware manufacturer founded in <time datetime="1832"><span class="number-spaced">1832</span></time> in Schlierbach, Hessen.</p>
+
+<div class="marks-subsection">
+<h3 class="mark-ruler">Crown Mark</h3>
+<p class="mark-explanation">The <strong>crown</strong> mark with <strong>&ldquo;&hairsp;Wächtersbach&hairsp;&rdquo;</strong> was used alongside location and country identifiers. <strong>&ldquo;&hairsp;Made in Western Germany&hairsp;&rdquo;</strong> indicates post-war production.</p>
+
+<article class="mark-entry">
+    <div class="mark-images">
+        <span class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-mark.jpg" alt="Stamped mark showing Wächtersbach crown logo with text"></span>
+        <span class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.jpg" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen"></span>
+    </div>
+    <div class="mark-info">
+        <p class="mark-text">Wächtersbach<br>Made in<br>Western Germany<br>Bremen</p>
     </div>
 </article>
 
