@@ -2,7 +2,7 @@
 title: "Ursula Fesca for Wächtersbach"
 description: "How a small ribbed Wächtersbach vase reflects Ursula Fesca&rsquo;s visual language of form, rhythm, and restrained colour."
 tags: [wächtersbach, ursula-fesca, west-german-ceramics, vase]
-image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg
+image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp
 image_alt: "Rounded earthenware vase with horizontal ribbed texture and off-white glaze"
 thumbnail:
   position: "center 65%"
@@ -34,7 +34,7 @@ manufacturer:
   location: "Schlierbach, Hessen, Germany"
 ---
 
-<img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg" alt="Rounded earthenware vase with horizontal ribbed texture and off-white glaze, showing warm terracotta clay at the edges where the glaze is thin" loading="lazy">
+<img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp" alt="Rounded earthenware vase with horizontal ribbed texture and off-white glaze, showing warm terracotta clay at the edges where the glaze is thin" loading="lazy">
 
 <dl>
 <dt>Maker</dt>
@@ -73,7 +73,7 @@ manufacturer:
 ---
 
 <figure class="figure-float-left">
-    <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.jpg" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen" loading="lazy">
+    <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.webp" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen" loading="lazy">
     <figcaption class="figure-caption">underside</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ This vase presents a compact rounded body with evenly moulded ribs and a quiet o
 ---
 
 <figure class="figure-float-right">
-    <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-top.jpg" alt="Top view looking down into the vase opening, showing concentric ribbed texture and dark glazed interior" loading="lazy">
+    <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-top.webp" alt="Top view looking down into the vase opening, showing concentric ribbed texture and dark glazed interior" loading="lazy">
     <figcaption class="figure-caption">top&nbsp;view</figcaption>
 </figure>
 

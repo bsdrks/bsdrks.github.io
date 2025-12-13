@@ -59,8 +59,8 @@ Handpainted</pre>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <figure class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.jpeg" alt="Brown stamped mark with crown, ARABIA, FINLAND, Karelia in script, and DISHWASHER-PROOF" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.jpeg" alt="Cream plate with brown concentric bands at the rim" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/arabia-karelia-plate-mark.webp" alt="Brown stamped mark with crown, ARABIA, FINLAND, Karelia in script, and DISHWASHER-PROOF" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/arabia-karelia-plate-top-view.webp" alt="Cream plate with brown concentric bands at the rim" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text">ARABIA
@@ -132,8 +132,8 @@ Bekkeblom</pre>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <figure class="img-zoom"><img src="/assets/images/furstenberg-teapot-mark-detail.jpg" alt="Blue underglaze crowned F mark with FÜRSTENBERG GERMANY text below" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/furstenberg-teapot-front-view.jpg" alt="White porcelain coffee pot with green floral garland border and rose finial on lid" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/furstenberg-teapot-mark-detail.webp" alt="Blue underglaze crowned F mark with FÜRSTENBERG GERMANY text below" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/furstenberg-teapot-front-view.webp" alt="White porcelain coffee pot with green floral garland border and rose finial on lid" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text">F
@@ -367,8 +367,8 @@ DONATELLO</pre>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <figure class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-selb-germany-mark.jpeg" alt="Green stamped mark with crown, reading Rosenthal SELB-GERMANY, with a dot above the crown indicating 1941" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-front-view.jpeg" alt="Spherical black porcelain vase with handpainted Cattleya orchids in lavender, pink, yellow and green" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-selb-germany-mark.webp" alt="Green stamped mark with crown, reading Rosenthal SELB-GERMANY, with a dot above the crown indicating 1941" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/rosenthal-cattleya-vase-front-view.webp" alt="Spherical black porcelain vase with handpainted Cattleya orchids in lavender, pink, yellow and green" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text">Rosenthal
@@ -436,8 +436,8 @@ MADE IN HOLLAND</pre>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-mark.jpeg" alt="Blue stamped mark showing Velsen written inside a vase outline with crown, and Delfts below" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-front.jpeg" alt="White glazed hexagonal vase with flared rim and vertical ribbed body" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-mark.webp" alt="Blue stamped mark showing Velsen written inside a vase outline with crown, and Delfts below" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-front.webp" alt="White glazed hexagonal vase with flared rim and vertical ribbed body" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text">Velsen
@@ -459,7 +459,7 @@ Delfts</pre>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <figure class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.png" alt="Blue stamped mark showing Mercury figure atop a shield, reading VILLEROY & BOCH DRESDEN" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-mark.webp" alt="Blue stamped mark showing Mercury figure atop a shield, reading VILLEROY & BOCH DRESDEN" loading="lazy"></figure>
         <figure class="img-zoom"><img src="/assets/images/villeroy-boch-dresden-teapot-front.webp" alt="White porcelain teapot with vertical ribbed texture and delicate blue floral sprigs" loading="lazy"></figure>
     </div>
     <div class="mark-info">
@@ -483,8 +483,8 @@ DRESDEN</pre>
 
 <article class="mark-entry">
     <div class="mark-images">
-        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-mark.jpg" alt="Stamped mark showing Wächtersbach crown logo with text" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.jpg" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-mark.webp" alt="Stamped mark showing Wächtersbach crown logo with text" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.webp" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text">Wächtersbach

@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.jpg
+      image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp
 
 exclude:
   - Gemfile
