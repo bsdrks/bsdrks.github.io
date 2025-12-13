@@ -10,7 +10,19 @@ title: VintageBas
     <p class="home-description">{{ site.description }}</p>
   </div>
 
+  <nav class="home-nav" aria-label="Site pages">
+    <p class="home-nav-title">Explore</p>
+    <ul class="home-nav-list">
+      <li>
+        <a href="{{ "/marks/" | relative_url }}" class="home-nav-link">
+          <span class="home-nav-link-title">Marks</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+
   <ul class="post-list">
+    <p class="home-nav-title">Posts</p>
     {% for post in site.posts %}
       <li class="post-item">
         <article>

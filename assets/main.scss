@@ -214,6 +214,61 @@ a.post-link {
     }
 }
 
+// Homepage navigation
+.home-nav {
+    margin-bottom: 2.5rem;
+}
+
+.home-nav-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #666;
+    margin: 0 0 0.75rem 0;
+}
+
+.home-nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+}
+
+.home-nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    border-radius: 2px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    
+    &:hover {
+        border-color: #8B1538;
+        background: #fff;
+    }
+    
+    &:focus-visible {
+        outline: 2px solid #8B1538;
+        outline-offset: 2px;
+    }
+}
+
+.home-nav-link-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #8B1538;
+}
+
+.home-nav-link-desc {
+    display: none;
+}
+
 // Homepage post list with thumbnails
 .post-list {
     list-style: none;
