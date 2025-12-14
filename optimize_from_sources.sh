@@ -47,29 +47,29 @@ optimize_image() {
     # Use ffmpeg with:
     # - lanczos resampling for quality
     # - unsharp filter for fine detail sharpening (smaller 3x3 matrix for finer details)
-    # - quality 100 for maximum WebP quality
+    # - quality 85 for good compression while maintaining visual quality
     if ffmpeg -i "$source" \
         -vf "scale=${new_w}:${new_h}:flags=lanczos+accurate_rnd+full_chroma_int,unsharp=3:3:0.8:3:3:0.0" \
-        -quality 100 \
+        -quality 85 \
         -y "$output" 2>/dev/null; then
         return 0
     else
         # Fallback: try with simpler unsharp
         if ffmpeg -i "$source" \
             -vf "scale=${new_w}:${new_h}:flags=lanczos+accurate_rnd+full_chroma_int,unsharp=3:3:0.8" \
-            -quality 100 \
+            -quality 85 \
             -y "$output" 2>/dev/null; then
             return 0
         else
             # Fallback: try without unsharp if it's not available
             if ffmpeg -i "$source" \
                 -vf "scale=${new_w}:${new_h}:flags=lanczos+accurate_rnd+full_chroma_int" \
-                -quality 100 \
+                -quality 85 \
                 -y "$output" 2>/dev/null; then
                 return 0
             else
                 # Final fallback to sips
-                sips -s format webp -s formatOptions 100 --resampleHeightWidth $new_h $new_w "$source" --out "$output" >/dev/null 2>&1
+                sips -s format webp -s formatOptions 85 --resampleHeightWidth $new_h $new_w "$source" --out "$output" >/dev/null 2>&1
                 return $?
             fi
         fi
