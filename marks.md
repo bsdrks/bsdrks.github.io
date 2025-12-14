@@ -484,7 +484,7 @@ DRESDEN</pre>
 <article class="mark-entry">
     <div class="mark-images">
         <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-mark.webp" alt="Stamped mark showing Wächtersbach crown logo with text" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-bottom.webp" alt="Underside of vase showing unglazed terracotta foot ring and stamped marks: Wächtersbach crown logo, Made in Western Germany, and Bremen" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp" alt="Rounded earthenware vase with horizontal ribbed texture and off-white glaze, showing warm terracotta clay at the edges where the glaze is thin" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text">Wächtersbach

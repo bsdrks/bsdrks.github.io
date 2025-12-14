@@ -7,19 +7,27 @@ title: VintageBas
 
 <main id="main-content">
   <div class="home-intro">
-    <p class="home-description">{{ site.description }}</p>
+    <div class="home-description">{{ site.description | markdownify }}</div>
   </div>
 
-  <nav class="home-nav" aria-label="Site pages">
+  <ul class="post-list">
     <p class="home-nav-title">Explore</p>
-    <ul class="home-nav-list">
-      <li>
-        <a href="{{ "/marks/" | relative_url }}" class="home-nav-link">
-          <span class="home-nav-link-title">Marks</span>
+    <li class="post-item">
+      <article>
+        <a href="{{ "/marks/" | relative_url }}" class="post-thumbnail">
+          <img src="{{ "/assets/images/marks-thumbnail.webp" | relative_url }}" alt="Marks thumbnail collage" loading="lazy">
         </a>
-      </li>
-    </ul>
-  </nav>
+        <div class="post-info">
+          <h2>
+            <a class="post-link" href="{{ "/marks/" | relative_url }}">
+              Marks
+            </a>
+          </h2>
+          <p class="post-subtitle">Porcelain and ceramics marks from my own collection.</p>
+        </div>
+      </article>
+    </li>
+  </ul>
 
   <ul class="post-list">
     <p class="home-nav-title">Posts</p>
@@ -34,14 +42,14 @@ title: VintageBas
           </a>
           {% endif %}
           <div class="post-info">
-            <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}">
-              {{ post.date | date: "%b %-d, %Y" }}
-            </time>
             <h2>
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
               </a>
             </h2>
+            <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%b %-d, %Y" }}
+            </time>
           </div>
         </article>
       </li>
