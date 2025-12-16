@@ -1,6 +1,6 @@
 ---
 title: "Ursula Fesca for Wächtersbach"
-description: "How a small ribbed Wächtersbach vase reflects Ursula Fesca&rsquo;s visual language of form, rhythm, and restrained colour."
+description: "Exploring a vintage ribbed Wächtersbach vase designed by Ursula Fesca. Learn about Bauhaus-influenced West German ceramics, Wächtersbach marks, and mid-century design. Available for sale on Vinted."
 tags: [wächtersbach, ursula-fesca, west-german-ceramics, vase]
 image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp
 image_alt: "Rounded earthenware vase with horizontal ribbed texture and off-white glaze"

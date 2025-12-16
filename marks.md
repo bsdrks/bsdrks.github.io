@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Marks"
-description: "Porcelain and ceramics marks from my own collection"
+description: "A reference guide to European porcelain and ceramics manufacturer marks, including Meissen, Rosenthal, Arabia, Wächtersbach, Hutschenreuther, and more. Documented from my personal collection with mark images, production dates, and historical context."
 permalink: /marks/
 ---
 
