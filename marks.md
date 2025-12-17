@@ -303,10 +303,11 @@ GERMANY</pre>
 <article class="mark-entry">
     <div class="mark-images">
         <figure class="img-zoom"><img src="/assets/images/meissen-vase-mark.webp" alt="Blue underglaze crossed swords mark on the base of a vase" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/meissen-vase-front-view.webp" alt="White porcelain vase with painted landscape scene featuring figures and trees" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/meissen-vase-front-view.webp" alt="White porcelain Lotus vase with relief decoration, designed by Ludwig Zepner" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text"><em>Crossed swords</em></pre>
+        <p class="mark-year">Designer: Ludwig Zepner, Lotus form (designed <time datetime="1959"><span class="number-spaced">1959</span></time>)</p>
     </div>
 </article>
 

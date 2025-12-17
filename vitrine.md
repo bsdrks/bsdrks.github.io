@@ -32,8 +32,8 @@ permalink: /vitrine/
                     <img src="/assets/images/val-saint-lambert-amber-vase.jpeg" alt="Val Saint Lambert amber vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Val Saint Lambert</p>
-                    <p class="timeline-date">ca. 1930</p>
+                    <p class="timeline-maker">Val Saint Lambert Mameluk</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
                     <p class="timeline-location">🇧🇪 Belgium</p>
                 </div>
             </div>
@@ -46,21 +46,8 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Val Saint Lambert</p>
-                    <p class="timeline-date">ca. 1930</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
                     <p class="timeline-location">🇧🇪 Belgium</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="timeline-item" data-year="1930">
-            <div class="timeline-card">
-                <div class="timeline-image">
-                    <img src="/assets/images/meissen-vase-front-view.webp" alt="Meissen vase with landscape scene" loading="lazy">
-                </div>
-                <div class="timeline-content">
-                    <p class="timeline-maker">Meissen</p>
-                    <p class="timeline-date">ca. 1930s</p>
-                    <p class="timeline-location">🇩🇪 Germany</p>
                 </div>
             </div>
         </div>
@@ -72,7 +59,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Scailmont</p>
-                    <p class="timeline-date">ca. 1930s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
                     <p class="timeline-location">🇧🇪 Belgium</p>
                 </div>
             </div>
@@ -85,7 +72,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Art Deco</p>
-                    <p class="timeline-date">ca. 1930s-50s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1930</span>-<span class="number-spaced">1950</span>s</p>
                     <p class="timeline-location">🇪🇺 Europe</p>
                 </div>
             </div>
@@ -101,7 +88,7 @@ permalink: /vitrine/
                     <img src="/assets/images/rosenthal-cattleya-vase-front-view.webp" alt="Rosenthal Cattleya vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Rosenthal</p>
+                    <p class="timeline-maker">Rosenthal Cattleya</p>
                     <p class="timeline-date">1941</p>
                     <p class="timeline-location">🇩🇪 Germany</p>
                 </div>
@@ -118,8 +105,8 @@ permalink: /vitrine/
                     <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp" alt="Ursula Fesca for Wächtersbach ribbed vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Ursula Fesca for Wächtersbach</p>
-                    <p class="timeline-date">ca. 1950</p>
+                    <p class="timeline-maker">Wächtersbach (&hairsp;U. Fesca&hairsp;)</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
                     <p class="timeline-location">🇩🇪 Germany</p>
                 </div>
             </div>
@@ -132,7 +119,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Unknown</p>
-                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
                     <p class="timeline-location">🇪🇺 Western Europe</p>
                 </div>
             </div>
@@ -144,8 +131,8 @@ permalink: /vitrine/
                     <img src="/assets/images/mobach-utrecht-vase-035.jpeg" alt="Mobach Utrecht vase 035" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Mobach Utrecht</p>
-                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-maker">Mobach Utrecht <span class="number-spaced">035</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
                     <p class="timeline-location">🇳🇱 Netherlands</p>
                 </div>
             </div>
@@ -157,8 +144,8 @@ permalink: /vitrine/
                     <img src="/assets/images/bequet-vase-front.jpeg" alt="Bequet vase 676" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Bequet</p>
-                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-maker">Bequet <span class="number-spaced">676</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
                     <p class="timeline-location">🇧🇪 Belgium</p>
                 </div>
             </div>
@@ -171,7 +158,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Troyan style</p>
-                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
                     <p class="timeline-location">🇧🇬 Bulgaria</p>
                 </div>
             </div>
@@ -184,7 +171,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Unknown</p>
-                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
                     <p class="timeline-location">🇪🇺 Western Europe</p>
                 </div>
             </div>
@@ -197,7 +184,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Folk pottery</p>
-                    <p class="timeline-date">ca. 1950s-60s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
                     <p class="timeline-location">🇪🇺 Southern Europe</p>
                 </div>
             </div>
@@ -214,7 +201,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Velsen</p>
-                    <p class="timeline-date">ca. 1960</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1960</span></p>
                     <p class="timeline-location">🇳🇱 Netherlands</p>
                 </div>
             </div>
@@ -226,8 +213,8 @@ permalink: /vitrine/
                     <img src="/assets/images/black-vase-bamboo-swallows.webp" alt="Black vase with bamboo and swallows" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">West German Pottery</p>
-                    <p class="timeline-date">ca. 1960s</p>
+                    <p class="timeline-maker">West German Pottery <span class="number-spaced">2964</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
@@ -240,11 +227,24 @@ permalink: /vitrine/
         <div class="timeline-item" data-year="1970">
             <div class="timeline-card">
                 <div class="timeline-image">
+                    <img src="/assets/images/meissen-vase-front-view.webp" alt="Meissen Lotus vase by Ludwig Zepner" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Meissen Lotus (&hairsp;L. Zepner&hairsp;)</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
+                    <p class="timeline-location">🇩🇪 Germany</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1970">
+            <div class="timeline-card">
+                <div class="timeline-image">
                     <img src="/assets/images/bay-keramik-vase-1970s.jpeg" alt="Bay Keramik two-tone vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Bay Keramik</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-maker">Bay Keramik <span class="number-spaced">710-17</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 Germany</p>
                 </div>
             </div>
@@ -257,7 +257,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Porcelanas Íbis</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1960</span>-<span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇵🇹 Portugal</p>
                 </div>
             </div>
@@ -269,8 +269,8 @@ permalink: /vitrine/
                     <img src="/assets/images/jasba-vase-1970s.jpeg" alt="Jasba vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Jasba</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-maker">Jasba N <span class="number-spaced">046</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 Germany</p>
                 </div>
             </div>
@@ -282,8 +282,8 @@ permalink: /vitrine/
                     <img src="/assets/images/unknown-greek-key-vase-1970s.jpeg" alt="Greek key vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">West German Pottery</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-maker">West German Pottery <span class="number-spaced">108-20</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
@@ -295,8 +295,8 @@ permalink: /vitrine/
                     <img src="/assets/images/unknown-fat-lava-vase-1970s.jpeg" alt="Fat lava vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">West German Pottery</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-maker">West German Pottery <span class="number-spaced">69/15</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
@@ -309,7 +309,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">West German Pottery</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
@@ -321,8 +321,8 @@ permalink: /vitrine/
                     <img src="/assets/images/unknown-white-porcelain-vase-1970s.jpeg" alt="White porcelain vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Unknown</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-maker">Unknown <span class="number-spaced">S-5040/29</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 Germany</p>
                 </div>
             </div>
@@ -335,7 +335,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Bassano</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇮🇹 Italy</p>
                 </div>
             </div>
@@ -347,8 +347,8 @@ permalink: /vitrine/
                     <img src="/assets/images/scheurich-vase-front.jpg" alt="Scheurich vase 291-38" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Scheurich</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-maker">Scheurich <span class="number-spaced">291-38</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
@@ -360,8 +360,8 @@ permalink: /vitrine/
                     <img src="/assets/images/bay-keramik-ochre-vase.webp" alt="Bay Keramik ochre vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Bay Keramik</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-maker">Bay Keramik <span class="number-spaced">70-14</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
@@ -374,7 +374,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Kera-Flor</p>
-                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
@@ -391,7 +391,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Satsuma style</p>
-                    <p class="timeline-date">ca. 1980s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
                     <p class="timeline-location">🇨🇳 China</p>
                 </div>
             </div>
@@ -404,7 +404,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Studio pottery</p>
-                    <p class="timeline-date">ca. 1980s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
                     <p class="timeline-location">🇪🇺 Western Europe</p>
                 </div>
             </div>
@@ -421,7 +421,7 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Hanneke Blom</p>
-                    <p class="timeline-date">ca. 1990</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1990</span></p>
                     <p class="timeline-location">🇳🇱 Netherlands</p>
                 </div>
             </div>
