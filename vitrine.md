@@ -78,6 +78,19 @@ permalink: /vitrine/
             </div>
         </div>
 
+        <div class="timeline-item" data-year="1930">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/black-amphora-rose-vase.webp" alt="Black amphora vase with roses" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Art Deco</p>
+                    <p class="timeline-date">ca. 1930s-50s</p>
+                    <p class="timeline-location">🇪🇺 Europe</p>
+                </div>
+            </div>
+        </div>
+
         <!-- 1940s -->
         <div class="timeline-decade-separator" data-decade="1940">
             <span class="timeline-decade-label">1940s</span>
@@ -177,6 +190,19 @@ permalink: /vitrine/
             </div>
         </div>
 
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/cream-vase-acorn-decor.webp" alt="Cream vase with acorn décor" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Folk pottery</p>
+                    <p class="timeline-date">ca. 1950s-60s</p>
+                    <p class="timeline-location">🇪🇺 Southern Europe</p>
+                </div>
+            </div>
+        </div>
+
         <!-- 1960s -->
         <div class="timeline-decade-separator" data-decade="1960">
             <span class="timeline-decade-label">1960s</span>
@@ -190,6 +216,19 @@ permalink: /vitrine/
                     <p class="timeline-maker">Velsen</p>
                     <p class="timeline-date">ca. 1960</p>
                     <p class="timeline-location">🇳🇱 Netherlands</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1960">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/black-vase-bamboo-swallows.webp" alt="Black vase with bamboo and swallows" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">West German Pottery</p>
+                    <p class="timeline-date">ca. 1960s</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
         </div>
@@ -309,6 +348,32 @@ permalink: /vitrine/
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Scheurich</p>
+                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1970">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/bay-keramik-ochre-vase.webp" alt="Bay Keramik ochre vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Bay Keramik</p>
+                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1970">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/kera-flor-pitcher.webp" alt="Kera-Flor Ruever pitcher" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Kera-Flor</p>
                     <p class="timeline-date">ca. 1970s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
