@@ -1,15 +1,25 @@
 ---
 layout: default
-title: "Vases Timeline"
+title: "Vitrine"
 description: "A chronological timeline of vintage vases from my collection. Scroll horizontally to explore vases from the 1930s to the 1990s, arranged from oldest (left) to newest (right)."
-permalink: /vases-timeline/
+permalink: /vitrine/
 ---
 
 <div class="timeline-page">
 
 <main id="main-content">
-<h1>Vases Timeline</h1>
-<p class="timeline-intro">A chronological journey through my collection, from the 1930s to the 1990s.</p>
+<h1>Vitrine</h1>
+<p class="timeline-intro">Vases from my private collection, 1930&ndash;1990.</p>
+
+<nav class="timeline-decade-nav" aria-label="Jump to decade">
+    <button type="button" class="timeline-decade-pill" data-decade-jump="1930">1930s</button>
+    <button type="button" class="timeline-decade-pill" data-decade-jump="1940">1940s</button>
+    <button type="button" class="timeline-decade-pill" data-decade-jump="1950">1950s</button>
+    <button type="button" class="timeline-decade-pill" data-decade-jump="1960">1960s</button>
+    <button type="button" class="timeline-decade-pill" data-decade-jump="1970">1970s</button>
+    <button type="button" class="timeline-decade-pill" data-decade-jump="1980">1980s</button>
+    <button type="button" class="timeline-decade-pill" data-decade-jump="1990">1990s</button>
+</nav>
 
 <div class="timeline-wrapper">
     <div class="timeline-container">
@@ -110,7 +120,7 @@ permalink: /vases-timeline/
                 <div class="timeline-content">
                     <p class="timeline-maker">Unknown</p>
                     <p class="timeline-date">ca. 1950s</p>
-                    <p class="timeline-location">Unknown</p>
+                    <p class="timeline-location">🇪🇺 Western Europe</p>
                 </div>
             </div>
         </div>
@@ -128,6 +138,45 @@ permalink: /vases-timeline/
             </div>
         </div>
 
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/bequet-vase-front.jpeg" alt="Bequet vase 676" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Bequet</p>
+                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-location">🇧🇪 Belgium</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/troyan-vase-front.jpeg" alt="Bulgarian Troyan-style vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Troyan style</p>
+                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-location">🇧🇬 Bulgaria</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/brown-melon-pitcher-front.jpg" alt="Brown melon pitcher" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Unknown</p>
+                    <p class="timeline-date">ca. 1950s</p>
+                    <p class="timeline-location">🇪🇺 Western Europe</p>
+                </div>
+            </div>
+        </div>
+
         <!-- 1960s -->
         <div class="timeline-decade-separator" data-decade="1960">
             <span class="timeline-decade-label">1960s</span>
@@ -135,7 +184,7 @@ permalink: /vases-timeline/
         <div class="timeline-item" data-year="1960">
             <div class="timeline-card">
                 <div class="timeline-image">
-                    <img src="/assets/images/velsen-delfts-vase-front.jpg" alt="Velsen Delfts vase" loading="lazy">
+                    <img src="/assets/images/velsen-delfts-vase-white-hexagonal-front.webp" alt="Velsen Delfts vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Velsen</p>
@@ -194,9 +243,9 @@ permalink: /vases-timeline/
                     <img src="/assets/images/unknown-greek-key-vase-1970s.jpeg" alt="Greek key vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Unknown</p>
+                    <p class="timeline-maker">West German Pottery</p>
                     <p class="timeline-date">ca. 1970s</p>
-                    <p class="timeline-location">Unknown</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
         </div>
@@ -207,9 +256,9 @@ permalink: /vases-timeline/
                     <img src="/assets/images/unknown-fat-lava-vase-1970s.jpeg" alt="Fat lava vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Unknown</p>
+                    <p class="timeline-maker">West German Pottery</p>
                     <p class="timeline-date">ca. 1970s</p>
-                    <p class="timeline-location">🇩🇪 Germany</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
         </div>
@@ -220,9 +269,9 @@ permalink: /vases-timeline/
                     <img src="/assets/images/unknown-red-pitcher-vase-1970s.jpeg" alt="Red pitcher vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Unknown</p>
+                    <p class="timeline-maker">West German Pottery</p>
                     <p class="timeline-date">ca. 1970s</p>
-                    <p class="timeline-location">🇩🇪 Germany</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
         </div>
@@ -236,6 +285,62 @@ permalink: /vases-timeline/
                     <p class="timeline-maker">Unknown</p>
                     <p class="timeline-date">ca. 1970s</p>
                     <p class="timeline-location">🇩🇪 Germany</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1970">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/bassano-pitcher-front.jpg" alt="Bassano pitcher" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Bassano</p>
+                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-location">🇮🇹 Italy</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1970">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/scheurich-vase-front.jpg" alt="Scheurich vase 291-38" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Scheurich</p>
+                    <p class="timeline-date">ca. 1970s</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 1980s -->
+        <div class="timeline-decade-separator" data-decade="1980">
+            <span class="timeline-decade-label">1980s</span>
+        </div>
+        <div class="timeline-item" data-year="1980">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/chinese-satsuma-vase-front.jpeg" alt="Chinese Satsuma-style vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Satsuma style</p>
+                    <p class="timeline-date">ca. 1980s</p>
+                    <p class="timeline-location">🇨🇳 China</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1980">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/grey-studio-vase-front.jpeg" alt="Grey studio pottery vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Studio pottery</p>
+                    <p class="timeline-date">ca. 1980s</p>
+                    <p class="timeline-location">🇪🇺 Western Europe</p>
                 </div>
             </div>
         </div>
@@ -259,8 +364,67 @@ permalink: /vases-timeline/
 
         </div>
     </div>
+
+    <div class="timeline-progress" aria-hidden="true">
+        <div class="timeline-progress-bar"></div>
+    </div>
 </div>
 
 </main>
 </div>
+
+
+<script>
+(function() {
+    const container = document.querySelector('.timeline-container');
+    const track = document.querySelector('.timeline-track');
+    const decadeButtons = document.querySelectorAll('.timeline-decade-pill[data-decade-jump]');
+    const progressBar = document.querySelector('.timeline-progress-bar');
+    if (!container || !track || decadeButtons.length === 0) return;
+
+    function updateProgress() {
+        if (!progressBar) return;
+        const maxScroll = container.scrollWidth - container.clientWidth;
+        const ratio = maxScroll > 0 ? container.scrollLeft / maxScroll : 0;
+        progressBar.style.transform = 'scaleX(' + ratio + ')';
+    }
+
+    function scrollToElement(el) {
+        if (!el) return;
+        const containerRect = container.getBoundingClientRect();
+        const targetRect = el.getBoundingClientRect();
+        const currentScroll = container.scrollLeft;
+        const offset = (targetRect.left - containerRect.left);
+        const centered = currentScroll + offset - (container.clientWidth - targetRect.width) / 2;
+
+        container.scrollTo({
+            left: centered,
+            behavior: 'smooth'
+        });
+    }
+
+    decadeButtons.forEach(btn => {
+        btn.addEventListener('click', function() {
+            const decade = this.getAttribute('data-decade-jump');
+            let target = null;
+
+            if (decade === '1930') {
+                target = track.querySelector('.timeline-item[data-year="1930"]');
+            } else {
+                target = track.querySelector('.timeline-decade-separator[data-decade="' + decade + '"]');
+                // Fallback: first item of that decade if no separator found
+                if (!target) {
+                    const decadeStart = parseInt(decade, 10);
+                    target = track.querySelector('.timeline-item[data-year="' + decadeStart + '"]');
+                }
+            }
+
+            scrollToElement(target);
+        });
+    });
+
+    container.addEventListener('scroll', updateProgress, { passive: true });
+    updateProgress();
+})();
+</script>
 
