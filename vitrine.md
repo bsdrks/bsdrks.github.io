@@ -555,7 +555,7 @@ permalink: /vitrine/
                 target = track.querySelector('.timeline-item[data-year="1930"]');
             } else {
                 target = track.querySelector('.timeline-decade-separator[data-decade="' + decade + '"]');
-                // Fallback: first item of that decade if no separator found
+
                 if (!target) {
                     const decadeStart = parseInt(decade, 10);
                     target = track.querySelector('.timeline-item[data-year="' + decadeStart + '"]');
@@ -567,6 +567,18 @@ permalink: /vitrine/
     });
 
     container.addEventListener('scroll', updateProgress, { passive: true });
+    
+    container.addEventListener('wheel', function(e) {
+        if (e.deltaX === 0 && e.deltaY !== 0 && e.deltaY % 1 !== 0) {
+            e.preventDefault();
+
+            container.scrollBy({
+                left: e.deltaY * 2,
+                behavior: 'auto'
+            });
+        }
+    }, { passive: false });
+    
     updateProgress();
 })();
 </script>

@@ -772,7 +772,7 @@ a {
 }
 
 pre {
-    background-color: #fff;
+    background-color: transparent;
     padding: 0;
     margin: 0;
     border: none;
@@ -985,7 +985,6 @@ pre {
 }
 
 .timeline-card {
-    background: #fff;
     border: none;
     border-radius: 0;
     overflow: visible;
@@ -997,7 +996,6 @@ pre {
 .timeline-image {
     width: 100%;
     overflow: hidden;
-    background: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
