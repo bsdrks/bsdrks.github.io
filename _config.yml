@@ -4,6 +4,7 @@ url: "https://bsdrks.github.io"
 author: "Bas Dirks"
 permalink: /:title/
 lang: en
+timezone: UTC
 
 markdown: kramdown
 highlighter: rouge
