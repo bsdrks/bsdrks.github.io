@@ -5,6 +5,10 @@
 <!-- Custom fonts - optimized loading with preconnect and async CSS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{%- if site.google_analytics -%}
+<!-- Preconnect to Google Tag Manager for faster connection when GA loads -->
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+{%- endif -%}
 <link href="https://fonts.googleapis.com/css2?family=TASA+Orbiter:wght@400;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=TASA+Orbiter:wght@400;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
 
@@ -23,12 +27,22 @@
 {%- include breadcrumbs.html -%}
 
 {%- if site.google_analytics -%}
-<!-- Google Analytics 4 (GA4) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<!-- Google Analytics 4 (GA4) - Optimized for performance -->
 <script>
+  // Minimal inline setup - doesn't block rendering
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', '{{ site.google_analytics }}');
+  
+  // Load GA script after page load to avoid blocking
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}';
+    script.async = true;
+    document.head.appendChild(script);
+    script.onload = function() {
+      gtag('config', '{{ site.google_analytics }}');
+    };
+  });
 </script>
 {%- endif -%}
