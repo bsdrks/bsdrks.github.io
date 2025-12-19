@@ -16,7 +16,7 @@ description: "A curated collection of European vintage and antique porcelain, ce
     <li class="post-item">
       <article>
         <a href="{{ "/marks/" | relative_url }}" class="post-thumbnail">
-          <img src="{{ "/assets/images/meissen-vase-mark.webp" | relative_url }}" alt="Meissen crossed swords mark" loading="lazy">
+          <img src="{{ "/assets/images/meissen-vase-mark.webp" | relative_url }}" alt="Meissen crossed swords mark" fetchpriority="high">
         </a>
         <div class="post-info">
           <h2>
@@ -31,7 +31,7 @@ description: "A curated collection of European vintage and antique porcelain, ce
     <li class="post-item">
       <article>
         <a href="{{ "/vitrine/" | relative_url }}" class="post-thumbnail">
-          <img src="{{ "/assets/images/val-saint-lambert-amber-vase.jpeg" | relative_url }}" alt="Vitrine thumbnail" loading="lazy">
+          <img src="{{ "/assets/images/val-saint-lambert-amber-vase.jpeg" | relative_url }}" alt="Vitrine thumbnail">
         </a>
         <div class="post-info">
           <h2>
@@ -53,7 +53,6 @@ description: "A curated collection of European vintage and antique porcelain, ce
           {% if post.image %}
           <a href="{{ post.url | relative_url }}" class="post-thumbnail">
             <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}"
-                 loading="lazy"
                  style="{% if post.thumbnail.scale %}transform: scale({{ post.thumbnail.scale }});{% endif %}{% if post.thumbnail.position %}object-position: {{ post.thumbnail.position }};{% endif %}">
           </a>
           {% endif %}
