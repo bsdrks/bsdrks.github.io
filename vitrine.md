@@ -8,7 +8,6 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
 
 <div class="timeline-page">
 
-<main id="main-content">
 <h1>Vitrine</h1>
 <p class="timeline-intro">A chronological timeline of vintage vases from my private collection, 1930s to 1990s. European ceramics and porcelain from makers including Val Saint Lambert, Rosenthal, Meissen, Scheurich, Bay Keramik, and others. Arranged chronologically to show the evolution of mid-century and vintage pottery design.</p>
 
@@ -514,7 +513,6 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
     </div>
 </div>
 
-</main>
 </div>
 
 

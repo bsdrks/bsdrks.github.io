@@ -8,7 +8,6 @@ image: /assets/images/meissen-vase-mark.webp
 
 <div class="marks-page">
 
-<main id="main-content">
 <h1>Marks</h1>
 <p class="marks-intro">Porcelain and ceramics marks from my own collection.</p>
 
@@ -500,6 +499,5 @@ Bremen</pre>
 
 </section>
 
-</main>
 </div>
 
