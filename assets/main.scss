@@ -295,8 +295,8 @@ a.post-link {
 
 .post-thumbnail {
     flex-shrink: 0;
-    width: 120px;
-    height: 120px;
+    width: 96px;
+    height: 128px;
     overflow: hidden;
     border-radius: 2px;
     
@@ -344,7 +344,7 @@ a.post-link {
     .post-thumbnail {
         width: 100%;
         height: auto;
-        aspect-ratio: 1;
+        aspect-ratio: 3 / 4;
     }
     
     a.post-link {

@@ -205,6 +205,27 @@
   }
 }
 </script>
+{% elsif page.url == '/vitrine/' %}
+{%- comment -%} CollectionPage schema for vitrine timeline page {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | jsonify }}
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Vintage Vases Collection Timeline",
+    "description": "A chronological collection of vintage vases from the 1930s to 1990s",
+    "numberOfItems": 40
+  }
+}
+</script>
 {% elsif page.layout == 'default' or page.url == '/' %}
 <script type="application/ld+json">
 {

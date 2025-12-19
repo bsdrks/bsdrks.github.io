@@ -9,7 +9,7 @@ permalink: /vitrine/
 
 <main id="main-content">
 <h1>Vitrine</h1>
-<p class="timeline-intro">Vases from my private collection, 1930&ndash;1990.</p>
+<p class="timeline-intro">A chronological timeline of vintage vases from my private collection, 1930s to 1990s. European ceramics and porcelain from makers including Val Saint Lambert, Rosenthal, Meissen, Scheurich, Bay Keramik, and others. Arranged chronologically to show the evolution of mid-century and vintage pottery design.</p>
 
 <nav class="timeline-decade-nav" aria-label="Jump to decade">
     <button type="button" class="timeline-decade-pill" data-decade-jump="1930">1930s</button>
