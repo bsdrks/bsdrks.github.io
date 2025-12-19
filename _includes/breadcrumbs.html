@@ -1,0 +1,38 @@
+{%- comment -%}
+Breadcrumb structured data for SEO
+Usage: {% include breadcrumbs.html %}
+{%- endcomment -%}
+{% if page.url != '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}{{ site.baseurl }}/"
+    }{% if page.url == '/marks/' %},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Marks",
+      "item": "{{ site.url }}{{ site.baseurl }}/marks/"
+    }{% elsif page.url == '/vitrine/' %},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Vitrine",
+      "item": "{{ site.url }}{{ site.baseurl }}/vitrine/"
+    }{% elsif page.layout == 'post' %},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title | escape }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }{% endif %}
+  ]
+}
+</script>
+{% endif %}

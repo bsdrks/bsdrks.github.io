@@ -96,7 +96,12 @@
     "@type": "WebPage",
     "@id": "{{ page.url | absolute_url }}"
   }{% if page.image %},
-  "image": "{{ page.image | absolute_url }}"{% endif %}{% if page.tags %},
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.image | absolute_url }}",
+    "width": 1200,
+    "height": 630
+  }{% endif %}{% if page.tags %},
   "keywords": {{ page.tags | join: ", " | jsonify }}{% endif %}
 }
 </script>
@@ -221,12 +226,14 @@
   "mainEntity": {
     "@type": "ItemList",
     "name": "Vintage Vases Collection Timeline",
-    "description": "A chronological collection of vintage vases from the 1930s to 1990s",
+    "description": "A chronological collection of vintage vases from the 1930s to 1990s, featuring European ceramics and porcelain from makers including Val Saint Lambert, Rosenthal, Meissen, Scheurich, and Bay Keramik",
     "numberOfItems": 40
-  }
+  }{% if page.image %},
+  "image": "{{ page.image | absolute_url }}"{% endif %}
 }
 </script>
 {% elsif page.layout == 'default' or page.url == '/' %}
+{%- comment -%} WebSite schema with SearchAction for homepage {%- endcomment -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -237,6 +244,14 @@
   "author": {
     "@type": "Person",
     "name": {{ site.author | jsonify }}
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.url }}/?s={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
   }
 }
 </script>

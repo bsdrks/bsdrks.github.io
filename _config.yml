@@ -1,10 +1,19 @@
 title: "VintageBas"
 description: "A curated collection of European vintage and antique porcelain, ceramics, and glass. I document manufacturer marks, share design stories, and help identify pieces from makers like Meissen, Rosenthal, Arabia, and Wächtersbach. Select items from my collection are available for sale on [Vinted](https://www.vinted.nl/member/306299073)."
 url: "https://bsdrks.github.io"
+baseurl: ""
 author: "Bas Dirks"
 permalink: /:title/
 lang: en
 timezone: UTC
+
+# SEO Configuration
+twitter:
+  username: vintagebas
+  card: summary_large_image
+
+# Default Open Graph image
+og_image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp
 
 markdown: kramdown
 highlighter: rouge
@@ -34,5 +43,22 @@ exclude:
 social:
   vinted: "https://www.vinted.nl/member/306299073"
   instagram: "https://www.instagram.com/vintagebas"
+  name: "VintageBas"
+  links:
+    - https://www.vinted.nl/member/306299073
+    - https://www.instagram.com/vintagebas
 
+# Analytics
 google_analytics: G-BWQSYT72DL
+
+# SEO Tag Configuration
+jekyll-seo-tag:
+  # Default image for social sharing
+  default_image: /assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp
+  # Default image width/height for Open Graph
+  default_image_width: 1200
+  default_image_height: 630
+  # Twitter username (jekyll-seo-tag will use this)
+  twitter:
+    username: vintagebas
+    card: summary_large_image
