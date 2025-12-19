@@ -98,11 +98,6 @@ h2 {
     font-family: "TASA Orbiter", sans-serif;
 }
 
-// Ensure body text has sufficient contrast (WCAG AA: 4.5:1 for normal text)
-body {
-    color: #222; // #222 on white = 12.6:1 contrast ratio (WCAG AAA compliant)
-}
-
 h1 {
     font-family: "Playfair Display", serif;
 }
@@ -228,7 +223,7 @@ a.post-link {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: #555; // WCAG AA compliant: #555 on white = 7.0:1 contrast ratio
+    color: #666;
     margin: 0 0 0.75rem 0;
 }
 
@@ -323,7 +318,7 @@ a.post-link {
     
     .post-subtitle {
         font-size: 0.95rem;
-        color: #555; // WCAG AA compliant: #555 on white = 7.0:1 contrast ratio
+        color: #666;
         line-height: 1.5;
         margin: 0.25rem 0 0 0;
     }
@@ -332,8 +327,6 @@ a.post-link {
         display: block;
         margin-top: 0.25rem;
         margin-bottom: 0;
-        color: #555; // WCAG AA compliant: #555 on white = 7.0:1 contrast ratio (passes for normal text)
-        font-size: 0.9rem; // Ensure it's readable
     }
     
     h2 {
@@ -440,7 +433,7 @@ footer p {
 
 .footer-copyright {
     font-size: 0.85rem;
-    color: #555; // WCAG AA compliant: #555 on white = 7.0:1 contrast ratio
+    color: #666;
     margin: 0;
 }
 
@@ -545,7 +538,7 @@ footer p {
         font-size: 0.85rem;
         text-transform: uppercase;
         letter-spacing: 0.1em;
-        color: #555; // WCAG AA compliant: #555 on white = 7.0:1 contrast ratio
+        color: #666;
     }
     
     a {
@@ -716,7 +709,7 @@ h3.mark-ruler {
 
 p.mark-year {
     font-size: 0.8rem;
-    color: #555; // WCAG AA compliant: #555 on white = 7.0:1 contrast ratio
+    color: #666;
     margin-top: 0.5rem;
     display: block;
     box-sizing: border-box;
