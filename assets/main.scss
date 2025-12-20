@@ -17,7 +17,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin: 1.5rem auto;
+        margin: 2rem auto;
         width: 100%;
         max-width: 100%;
         padding: 0 1rem;
@@ -50,7 +50,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin: 1.5rem auto;
+        margin: 2rem auto;
         width: 100%;
         max-width: 100%;
         padding: 0 1rem;
@@ -99,7 +99,7 @@ h2 {
 }
 
 h1 {
-    font-family: "Playfair Display", serif;
+    font-family: "TASA Orbiter", sans-serif;
 }
 
 .post-title {
@@ -196,8 +196,8 @@ article {
 }
 
 a.post-link {
-    font-size: 42px;
-    font-family: "Playfair Display";
+    font-size: 2rem;
+    font-family: "TASA Orbiter", sans-serif;
     color: #222;
 }
 
@@ -355,11 +355,14 @@ a.post-link {
 
 .site-header {
     border-top: none;
+    min-height: 75px;
+    display: flex;
     
     .wrapper {
         display: flex;
         justify-content: space-between;
-        align-items: baseline;
+        align-items: center;
+        width: 740px;   
     }
     
     .site-title {
@@ -461,16 +464,16 @@ footer p {
 }
 
 .site-title {
-    font-family: "TASA Orbiter", sans-serif;
     color: #8B1538;
-    font-weight: 400;
-    font-size: 1em;
+    font-size: 1.1em;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.03em;
     opacity: 1;
+    text-decoration: none;
     
     &:hover {
         color: #6B0F2A;
+        text-decoration: none;
     }
 
     &:visited {
@@ -481,7 +484,7 @@ footer p {
 // Marks page styles
 .marks-page {
     h1 {
-        font-family: "Playfair Display", serif;
+        font-family: "TASA Orbiter", sans-serif;
         margin-bottom: 0.5rem;
     }
 }
@@ -544,7 +547,7 @@ footer p {
     
     a {
         display: block;
-        padding-left: 0.75rem;
+        padding-left: 1rem;
         border-left: 2px solid #ddd;
         transition: border-color 0.2s ease;
         
@@ -560,12 +563,11 @@ footer p {
     flex-direction: column;
     
     > h2 {
-        font-family: "Playfair Display", serif;
+        font-family: "TASA Orbiter", sans-serif;
         font-size: 1.875rem;
         margin-bottom: 0.5rem;
         padding-top: 1.5rem;
         color: #222;
-        font-weight: 500;
     }
     
     p {
@@ -636,6 +638,8 @@ footer p {
         color: #2a2a2a;
         font-weight: 400;
         margin: 0;
+        border-left: 2px solid #666;
+        padding-left: 1rem;
     }
 }
 
@@ -755,7 +759,7 @@ a {
     padding: 3rem 1rem;
     
     h1 {
-        font-family: "Playfair Display", serif;
+        font-family: "TASA Orbiter", sans-serif;
         font-size: 4rem;
         margin-bottom: 1rem;
         color: #8B1538;
@@ -782,7 +786,7 @@ pre {
 // Timeline page styles
 .timeline-page {
     h1 {
-        font-family: "Playfair Display", serif;
+        font-family: "TASA Orbiter", sans-serif;
         margin-bottom: 0.5rem;
     }
 }
@@ -1075,4 +1079,17 @@ pre {
         -webkit-mask-image: none;
         mask-image: none;
     }
+}
+
+body {
+    color: #222;
+}
+
+.post-meta,
+.post-subtitle,
+.home-nav-title,
+.footer-copyright,
+.marks-toc strong,
+p.mark-year {
+    color: #555;
 }

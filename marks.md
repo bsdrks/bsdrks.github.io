@@ -438,7 +438,7 @@ MADE IN HOLLAND</pre>
 <article class="mark-entry">
     <div class="mark-images">
         <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-mark.webp" alt="Blue stamped mark showing Velsen written inside a vase outline with crown, and Delfts below" loading="lazy"></figure>
-        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-front.webp" alt="White glazed hexagonal vase with flared rim and vertical ribbed body" loading="lazy"></figure>
+        <figure class="img-zoom"><img src="/assets/images/velsen-delfts-vase-front.jpg" alt="White glazed hexagonal vase with flared rim and vertical ribbed body" loading="lazy"></figure>
     </div>
     <div class="mark-info">
         <pre class="mark-text">Velsen
