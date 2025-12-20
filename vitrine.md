@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Vitrine | Vintage Vases Timeline 1930s-1990s"
+title: "Vitrine – vases timeline"
 description: "A chronological timeline of vintage vases from my collection. Scroll horizontally to explore vases from the 1930s to the 1990s, arranged from oldest (left) to newest (right)."
 permalink: /vitrine/
 image: /assets/images/val-saint-lambert-amber-vase.jpeg
