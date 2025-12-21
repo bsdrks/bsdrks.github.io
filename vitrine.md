@@ -26,14 +26,27 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
         <div class="timeline-track">
         
         <!-- 1930s -->
-        <div class="timeline-item" data-year="1930">
+        <div class="timeline-item" data-year="1934">
             <div class="timeline-card">
                 <div class="timeline-image">
-                    <img src="/assets/images/val-saint-lambert-amber-vase.jpeg" alt="Val Saint Lambert amber vase" loading="lazy">
+                    <img src="/assets/images/val-saint-lambert-amber-vase.jpeg" alt="Val Saint Lambert Americain vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Val Saint Lambert Americain</p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
+                    <p class="timeline-date"><span class="number-spaced">1934</span> <small>(&hairsp;introduced&hairsp;)</small></p>
+                    <p class="timeline-location">🇧🇪 Belgium</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1935">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/vsl-mameluk-1930s-front.webp" alt="Val Saint Lambert Mameluk vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Val Saint Lambert Mameluk</p>
+                    <p class="timeline-date"><span class="number-spaced">1935</span> <small>(&hairsp;introduced&hairsp;)</small></p>
                     <p class="timeline-location">🇧🇪 Belgium</p>
                 </div>
             </div>
@@ -45,20 +58,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                     <img src="/assets/images/val-saint-lambert-pink-vase-front.webp" alt="Val Saint Lambert pink vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Val Saint Lambert</p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
-                    <p class="timeline-location">🇧🇪 Belgium</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="timeline-item" data-year="1930">
-            <div class="timeline-card">
-                <div class="timeline-image">
-                    <img src="/assets/images/vsl-mameluk-1930s-front.webp" alt="Val Saint Lambert Mameluk vase" loading="lazy">
-                </div>
-                <div class="timeline-content">
-                    <p class="timeline-maker">Val Saint Lambert Mameluk</p>
+                    <p class="timeline-maker">Val Saint Lambert Luxval</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
                     <p class="timeline-location">🇧🇪 Belgium</p>
                 </div>
@@ -128,19 +128,6 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
         <div class="timeline-item" data-year="1950">
             <div class="timeline-card">
                 <div class="timeline-image">
-                    <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp" alt="Ursula Fesca for Wächtersbach ribbed vase" loading="lazy">
-                </div>
-                <div class="timeline-content">
-                    <p class="timeline-maker">Wächtersbach (&hairsp;U. Fesca&hairsp;)</p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
-                    <p class="timeline-location">🇩🇪 West Germany</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="timeline-item" data-year="1950">
-            <div class="timeline-card">
-                <div class="timeline-image">
                     <img src="/assets/images/unknown-striped-vase-1950s.jpeg" alt="Cream-brown striped vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
@@ -154,11 +141,37 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
         <div class="timeline-item" data-year="1950">
             <div class="timeline-card">
                 <div class="timeline-image">
+                    <img src="/assets/images/brown-melon-pitcher-front.jpg" alt="Brown melon pitcher" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Unknown</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
+                    <p class="timeline-location">🇪🇺 Western Europe</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/ursula-fesca-waechtersbach-ribbed-vase-main.webp" alt="Ursula Fesca for Wächtersbach ribbed vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Wächtersbach (&hairsp;U. Fesca&hairsp;)</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
                     <img src="/assets/images/mobach-utrecht-vase-035.jpeg" alt="Mobach Utrecht vase 035" loading="lazy">
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Mobach Utrecht <span class="number-spaced">035</span></p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
                     <p class="timeline-location">🇳🇱 Netherlands</p>
                 </div>
             </div>
@@ -171,7 +184,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Bequet <span class="number-spaced">676</span></p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
                     <p class="timeline-location">🇧🇪 Belgium</p>
                 </div>
             </div>
@@ -184,21 +197,8 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Troyan style</p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
                     <p class="timeline-location">🇧🇬 Bulgaria</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="timeline-item" data-year="1950">
-            <div class="timeline-card">
-                <div class="timeline-image">
-                    <img src="/assets/images/brown-melon-pitcher-front.jpg" alt="Brown melon pitcher" loading="lazy">
-                </div>
-                <div class="timeline-content">
-                    <p class="timeline-maker">Unknown</p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
-                    <p class="timeline-location">🇪🇺 Western Europe</p>
                 </div>
             </div>
         </div>
@@ -229,21 +229,35 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
             </div>
         </div>
 
-        <!-- 1960s -->
-        <div class="timeline-decade-separator" data-decade="1960">
-            <span class="timeline-decade-label">1960s</span>
-        </div>
-        <div class="timeline-item" data-year="1960">
+        <div class="timeline-item" data-year="1950">
             <div class="timeline-card">
                 <div class="timeline-image">
                     <img src="/assets/images/marzi-and-remy-144-1-1960-front.webp" alt="Marzi & Remy vase 144/1" loading="lazy">
                 </div>
                 <div class="timeline-content">
                     <p class="timeline-maker">Marzi &amp; Remy <span class="number-spaced">144/1</span></p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1960</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
                 </div>
             </div>
+        </div>
+
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/black-vase-bamboo-swallows.webp" alt="Black vase with bamboo and swallows" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">West German Pottery <span class="number-spaced">2964</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
+                    <p class="timeline-location">🇩🇪 West Germany</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 1960s -->
+        <div class="timeline-decade-separator" data-decade="1960">
+            <span class="timeline-decade-label">1960s</span>
         </div>
 
         <div class="timeline-item" data-year="1960">
@@ -275,15 +289,16 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
         <div class="timeline-item" data-year="1960">
             <div class="timeline-card">
                 <div class="timeline-image">
-                    <img src="/assets/images/black-vase-bamboo-swallows.webp" alt="Black vase with bamboo and swallows" loading="lazy">
+                    <img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Porcelanas Íbis vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">West German Pottery <span class="number-spaced">2964</span></p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location">🇩🇪 West Germany</p>
+                    <p class="timeline-maker">Porcelanas Íbis</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1960</span>-<span class="number-spaced">1970</span>s</p>
+                    <p class="timeline-location">🇵🇹 Portugal</p>
                 </div>
             </div>
         </div>
+
 
         <!-- 1970s -->
         <div class="timeline-decade-separator" data-decade="1970">
@@ -311,19 +326,6 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                     <p class="timeline-maker">Bay Keramik <span class="number-spaced">710-17</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
                     <p class="timeline-location">🇩🇪 West Germany</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="timeline-item" data-year="1970">
-            <div class="timeline-card">
-                <div class="timeline-image">
-                    <img src="/assets/images/porcelanas-ibis-vase-front.webp" alt="Porcelanas Íbis vase" loading="lazy">
-                </div>
-                <div class="timeline-content">
-                    <p class="timeline-maker">Porcelanas Íbis</p>
-                    <p class="timeline-date">ca. <span class="number-spaced">1960</span>-<span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location">🇵🇹 Portugal</p>
                 </div>
             </div>
         </div>
