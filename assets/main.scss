@@ -918,7 +918,7 @@ pre {
 .timeline-decade-separator {
     flex: 0 0 auto;
     width: 1px;
-    background: linear-gradient(to bottom, #d0d0d0 0%, #e8e8e8 50%, #d0d0d0 100%);
+    background: #8B1538;
     margin: 0 4rem 0 2rem;
     align-self: stretch;
     min-height: 350px;
@@ -926,19 +926,6 @@ pre {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
-    // Small circle at top of separator
-    &::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 5px;
-        height: 5px;
-        background: #8B1538;
-        border-radius: 50%;
-    }
     
     .timeline-decade-label {
         position: absolute;

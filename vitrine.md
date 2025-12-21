@@ -458,6 +458,19 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
             </div>
         </div>
 
+        <div class="timeline-item" data-year="1970">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/theo-genemans-vase-tulips.jpg" alt="Theo Genemans vase with tulips" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Theo Genemans</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
+                    <p class="timeline-location">🇳🇱 Netherlands</p>
+                </div>
+            </div>
+        </div>
+
         <!-- 1980s -->
         <div class="timeline-decade-separator" data-decade="1980">
             <span class="timeline-decade-label">1980s</span>
