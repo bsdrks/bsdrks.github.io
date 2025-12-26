@@ -34,7 +34,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Val Saint Lambert Americain</p>
                     <p class="timeline-date"><span class="number-spaced">1934</span> <small>(&hairsp;introduced&hairsp;)</small></p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#000"/><rect x="7" width="7" height="15" fill="#FAE042"/><rect x="14" width="7" height="15" fill="#ED2939"/></svg></span> Belgium</p>
+                    <p class="timeline-location">Belgium</p>
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Val Saint Lambert Mameluk</p>
                     <p class="timeline-date"><span class="number-spaced">1935</span> <small>(&hairsp;introduced&hairsp;)</small></p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#000"/><rect x="7" width="7" height="15" fill="#FAE042"/><rect x="14" width="7" height="15" fill="#ED2939"/></svg></span> Belgium</p>
+                    <p class="timeline-location">Belgium</p>
                 </div>
             </div>
         </div>
@@ -60,7 +60,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Val Saint Lambert Luxval</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#000"/><rect x="7" width="7" height="15" fill="#FAE042"/><rect x="14" width="7" height="15" fill="#ED2939"/></svg></span> Belgium</p>
+                    <p class="timeline-location">Belgium</p>
                 </div>
             </div>
         </div>
@@ -73,7 +73,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Scailmont</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#000"/><rect x="7" width="7" height="15" fill="#FAE042"/><rect x="14" width="7" height="15" fill="#ED2939"/></svg></span> Belgium</p>
+                    <p class="timeline-location">Belgium</p>
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Art Deco</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1930</span>-<span class="number-spaced">1950</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="15" fill="#003399"/><g fill="#FFCC00"><polygon points="10.5,2.5 10.8,3.4 11.7,3.4 10.95,4 11.2,4.9 10.5,4.4 9.8,4.9 10.05,4 9.3,3.4 10.2,3.4"/><polygon points="10.5,10.5 10.8,11.4 11.7,11.4 10.95,12 11.2,12.9 10.5,12.4 9.8,12.9 10.05,12 9.3,11.4 10.2,11.4"/><polygon points="6.5,3.5 6.8,4.4 7.7,4.4 6.95,5 7.2,5.9 6.5,5.4 5.8,5.9 6.05,5 5.3,4.4 6.2,4.4"/><polygon points="14.5,3.5 14.8,4.4 15.7,4.4 14.95,5 15.2,5.9 14.5,5.4 13.8,5.9 14.05,5 13.3,4.4 14.2,4.4"/><polygon points="6.5,9.5 6.8,10.4 7.7,10.4 6.95,11 7.2,11.9 6.5,11.4 5.8,11.9 6.05,11 5.3,10.4 6.2,10.4"/><polygon points="14.5,9.5 14.8,10.4 15.7,10.4 14.95,11 15.2,11.9 14.5,11.4 13.8,11.9 14.05,11 13.3,10.4 14.2,10.4"/><polygon points="5,6.5 5.3,7.4 6.2,7.4 5.45,8 5.7,8.9 5,8.4 4.3,8.9 4.55,8 3.8,7.4 4.7,7.4"/><polygon points="16,6.5 16.3,7.4 17.2,7.4 16.45,8 16.7,8.9 16,8.4 15.3,8.9 15.55,8 14.8,7.4 15.7,7.4"/></g></svg></span> Europe</p>
+                    <p class="timeline-location">Europe</p>
                 </div>
             </div>
         </div>
@@ -99,7 +99,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Satsuma</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="15" fill="#FFF"/><circle cx="10.5" cy="7.5" r="4.5" fill="#BC002D"/></svg></span> Japan</p>
+                    <p class="timeline-location">Japan</p>
                 </div>
             </div>
         </div>
@@ -116,7 +116,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Rosenthal Cattleya</p>
                     <p class="timeline-date"><span class="number-spaced">1941</span></p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> Germany</p>
+                    <p class="timeline-location">Germany</p>
                 </div>
             </div>
         </div>
@@ -133,7 +133,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Unknown</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="15" fill="#003399"/><g fill="#FFCC00"><polygon points="10.5,2.5 10.8,3.4 11.7,3.4 10.95,4 11.2,4.9 10.5,4.4 9.8,4.9 10.05,4 9.3,3.4 10.2,3.4"/><polygon points="10.5,10.5 10.8,11.4 11.7,11.4 10.95,12 11.2,12.9 10.5,12.4 9.8,12.9 10.05,12 9.3,11.4 10.2,11.4"/><polygon points="6.5,3.5 6.8,4.4 7.7,4.4 6.95,5 7.2,5.9 6.5,5.4 5.8,5.9 6.05,5 5.3,4.4 6.2,4.4"/><polygon points="14.5,3.5 14.8,4.4 15.7,4.4 14.95,5 15.2,5.9 14.5,5.4 13.8,5.9 14.05,5 13.3,4.4 14.2,4.4"/><polygon points="6.5,9.5 6.8,10.4 7.7,10.4 6.95,11 7.2,11.9 6.5,11.4 5.8,11.9 6.05,11 5.3,10.4 6.2,10.4"/><polygon points="14.5,9.5 14.8,10.4 15.7,10.4 14.95,11 15.2,11.9 14.5,11.4 13.8,11.9 14.05,11 13.3,10.4 14.2,10.4"/><polygon points="5,6.5 5.3,7.4 6.2,7.4 5.45,8 5.7,8.9 5,8.4 4.3,8.9 4.55,8 3.8,7.4 4.7,7.4"/><polygon points="16,6.5 16.3,7.4 17.2,7.4 16.45,8 16.7,8.9 16,8.4 15.3,8.9 15.55,8 14.8,7.4 15.7,7.4"/></g></svg></span> Western Europe</p>
+                    <p class="timeline-location">Western Europe</p>
                 </div>
             </div>
         </div>
@@ -146,7 +146,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Unknown</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="15" fill="#003399"/><g fill="#FFCC00"><polygon points="10.5,2.5 10.8,3.4 11.7,3.4 10.95,4 11.2,4.9 10.5,4.4 9.8,4.9 10.05,4 9.3,3.4 10.2,3.4"/><polygon points="10.5,10.5 10.8,11.4 11.7,11.4 10.95,12 11.2,12.9 10.5,12.4 9.8,12.9 10.05,12 9.3,11.4 10.2,11.4"/><polygon points="6.5,3.5 6.8,4.4 7.7,4.4 6.95,5 7.2,5.9 6.5,5.4 5.8,5.9 6.05,5 5.3,4.4 6.2,4.4"/><polygon points="14.5,3.5 14.8,4.4 15.7,4.4 14.95,5 15.2,5.9 14.5,5.4 13.8,5.9 14.05,5 13.3,4.4 14.2,4.4"/><polygon points="6.5,9.5 6.8,10.4 7.7,10.4 6.95,11 7.2,11.9 6.5,11.4 5.8,11.9 6.05,11 5.3,10.4 6.2,10.4"/><polygon points="14.5,9.5 14.8,10.4 15.7,10.4 14.95,11 15.2,11.9 14.5,11.4 13.8,11.9 14.05,11 13.3,10.4 14.2,10.4"/><polygon points="5,6.5 5.3,7.4 6.2,7.4 5.45,8 5.7,8.9 5,8.4 4.3,8.9 4.55,8 3.8,7.4 4.7,7.4"/><polygon points="16,6.5 16.3,7.4 17.2,7.4 16.45,8 16.7,8.9 16,8.4 15.3,8.9 15.55,8 14.8,7.4 15.7,7.4"/></g></svg></span> Western Europe</p>
+                    <p class="timeline-location">Western Europe</p>
                 </div>
             </div>
         </div>
@@ -159,7 +159,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Wächtersbach (&hairsp;U. Fesca&hairsp;)</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -172,7 +172,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Mobach Utrecht <span class="number-spaced">035</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#AE1C28"/><rect y="5" width="21" height="5" fill="#FFF"/><rect y="10" width="21" height="5" fill="#21468B"/></svg></span> Netherlands</p>
+                    <p class="timeline-location">Netherlands</p>
                 </div>
             </div>
         </div>
@@ -185,7 +185,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Bequet <span class="number-spaced">676</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#000"/><rect x="7" width="7" height="15" fill="#FAE042"/><rect x="14" width="7" height="15" fill="#ED2939"/></svg></span> Belgium</p>
+                    <p class="timeline-location">Belgium</p>
                 </div>
             </div>
         </div>
@@ -198,7 +198,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Troyan style</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#FFF"/><rect y="5" width="21" height="5" fill="#00966E"/><rect y="10" width="21" height="5" fill="#D62612"/></svg></span> Bulgaria</p>
+                    <p class="timeline-location">Bulgaria</p>
                 </div>
             </div>
         </div>
@@ -211,7 +211,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Folk pottery</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="15" fill="#003399"/><g fill="#FFCC00"><polygon points="10.5,2.5 10.8,3.4 11.7,3.4 10.95,4 11.2,4.9 10.5,4.4 9.8,4.9 10.05,4 9.3,3.4 10.2,3.4"/><polygon points="10.5,10.5 10.8,11.4 11.7,11.4 10.95,12 11.2,12.9 10.5,12.4 9.8,12.9 10.05,12 9.3,11.4 10.2,11.4"/><polygon points="6.5,3.5 6.8,4.4 7.7,4.4 6.95,5 7.2,5.9 6.5,5.4 5.8,5.9 6.05,5 5.3,4.4 6.2,4.4"/><polygon points="14.5,3.5 14.8,4.4 15.7,4.4 14.95,5 15.2,5.9 14.5,5.4 13.8,5.9 14.05,5 13.3,4.4 14.2,4.4"/><polygon points="6.5,9.5 6.8,10.4 7.7,10.4 6.95,11 7.2,11.9 6.5,11.4 5.8,11.9 6.05,11 5.3,10.4 6.2,10.4"/><polygon points="14.5,9.5 14.8,10.4 15.7,10.4 14.95,11 15.2,11.9 14.5,11.4 13.8,11.9 14.05,11 13.3,10.4 14.2,10.4"/><polygon points="5,6.5 5.3,7.4 6.2,7.4 5.45,8 5.7,8.9 5,8.4 4.3,8.9 4.55,8 3.8,7.4 4.7,7.4"/><polygon points="16,6.5 16.3,7.4 17.2,7.4 16.45,8 16.7,8.9 16,8.4 15.3,8.9 15.55,8 14.8,7.4 15.7,7.4"/></g></svg></span> Southern Europe</p>
+                    <p class="timeline-location">Southern Europe</p>
                 </div>
             </div>
         </div>
@@ -224,7 +224,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">St. Clément</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#002395"/><rect x="7" width="7" height="15" fill="#FFF"/><rect x="14" width="7" height="15" fill="#ED2939"/></svg></span> France</p>
+                    <p class="timeline-location">France</p>
                 </div>
             </div>
         </div>
@@ -237,7 +237,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Marzi &amp; Remy <span class="number-spaced">144/1</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -250,7 +250,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">West German Pottery <span class="number-spaced">2964</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1950</span>-<span class="number-spaced">1960</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -268,7 +268,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Velsen</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1960</span></p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#AE1C28"/><rect y="5" width="21" height="5" fill="#FFF"/><rect y="10" width="21" height="5" fill="#21468B"/></svg></span> Netherlands</p>
+                    <p class="timeline-location">Netherlands</p>
                 </div>
             </div>
         </div>
@@ -281,7 +281,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Porcelaines Ternet</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1960</span></p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#002395"/><rect x="7" width="7" height="15" fill="#FFF"/><rect x="14" width="7" height="15" fill="#ED2939"/></svg></span> France</p>
+                    <p class="timeline-location">France</p>
                 </div>
             </div>
         </div>
@@ -294,7 +294,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Porcelanas Íbis</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1960</span>-<span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="8" height="15" fill="#006600"/><rect x="8" width="13" height="15" fill="#FF0000"/><circle cx="8" cy="7.5" r="3" fill="#FFCC00"/></svg></span> Portugal</p>
+                    <p class="timeline-location">Portugal</p>
                 </div>
             </div>
         </div>
@@ -312,7 +312,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Meissen Lotus (&hairsp;L. Zepner&hairsp;)</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> East Germany</p>
+                    <p class="timeline-location">East Germany</p>
                 </div>
             </div>
         </div>
@@ -325,7 +325,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Bay Keramik <span class="number-spaced">710-17</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -338,7 +338,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Jasba N <span class="number-spaced">046</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -351,7 +351,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">West German Pottery <span class="number-spaced">108-20</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -364,7 +364,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">West German Pottery <span class="number-spaced">69/15</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -377,7 +377,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">West German Pottery</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -390,7 +390,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Unknown <span class="number-spaced">S-5040/29</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -403,7 +403,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Bassano</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="7" height="15" fill="#009246"/><rect x="7" width="7" height="15" fill="#FFF"/><rect x="14" width="7" height="15" fill="#CE2B37"/></svg></span> Italy</p>
+                    <p class="timeline-location">Italy</p>
                 </div>
             </div>
         </div>
@@ -416,7 +416,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Scheurich <span class="number-spaced">291-38</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -429,7 +429,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Bay Keramik <span class="number-spaced">70-14</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -442,7 +442,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Kera-Flor</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -455,7 +455,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Scheurich <span class="number-spaced">244-22</span></p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#000"/><rect y="5" width="21" height="5" fill="#DD0000"/><rect y="10" width="21" height="5" fill="#FFCC00"/></svg></span> West Germany</p>
+                    <p class="timeline-location">West Germany</p>
                 </div>
             </div>
         </div>
@@ -468,7 +468,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Theo Genemans</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1970</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#AE1C28"/><rect y="5" width="21" height="5" fill="#FFF"/><rect y="10" width="21" height="5" fill="#21468B"/></svg></span> Netherlands</p>
+                    <p class="timeline-location">Netherlands</p>
                 </div>
             </div>
         </div>
@@ -485,7 +485,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Satsuma style</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="15" fill="#DE2910"/><polygon points="3.5,2 4.1,4 6.2,4 4.5,5.2 5.1,7.2 3.5,6 1.9,7.2 2.5,5.2 0.8,4 2.9,4" fill="#FFDE00"/></svg></span> China</p>
+                    <p class="timeline-location">China</p>
                 </div>
             </div>
         </div>
@@ -498,7 +498,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Studio pottery</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="15" fill="#003399"/><g fill="#FFCC00"><polygon points="10.5,2.5 10.8,3.4 11.7,3.4 10.95,4 11.2,4.9 10.5,4.4 9.8,4.9 10.05,4 9.3,3.4 10.2,3.4"/><polygon points="10.5,10.5 10.8,11.4 11.7,11.4 10.95,12 11.2,12.9 10.5,12.4 9.8,12.9 10.05,12 9.3,11.4 10.2,11.4"/><polygon points="6.5,3.5 6.8,4.4 7.7,4.4 6.95,5 7.2,5.9 6.5,5.4 5.8,5.9 6.05,5 5.3,4.4 6.2,4.4"/><polygon points="14.5,3.5 14.8,4.4 15.7,4.4 14.95,5 15.2,5.9 14.5,5.4 13.8,5.9 14.05,5 13.3,4.4 14.2,4.4"/><polygon points="6.5,9.5 6.8,10.4 7.7,10.4 6.95,11 7.2,11.9 6.5,11.4 5.8,11.9 6.05,11 5.3,10.4 6.2,10.4"/><polygon points="14.5,9.5 14.8,10.4 15.7,10.4 14.95,11 15.2,11.9 14.5,11.4 13.8,11.9 14.05,11 13.3,10.4 14.2,10.4"/><polygon points="5,6.5 5.3,7.4 6.2,7.4 5.45,8 5.7,8.9 5,8.4 4.3,8.9 4.55,8 3.8,7.4 4.7,7.4"/><polygon points="16,6.5 16.3,7.4 17.2,7.4 16.45,8 16.7,8.9 16,8.4 15.3,8.9 15.55,8 14.8,7.4 15.7,7.4"/></g></svg></span> Western Europe</p>
+                    <p class="timeline-location">Western Europe</p>
                 </div>
             </div>
         </div>
@@ -515,7 +515,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                 <div class="timeline-content">
                     <p class="timeline-maker">Hanneke Blom</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1990</span></p>
-                    <p class="timeline-location"><span class="flag-icon"><svg viewBox="0 0 21 15"><rect width="21" height="5" fill="#AE1C28"/><rect y="5" width="21" height="5" fill="#FFF"/><rect y="10" width="21" height="5" fill="#21468B"/></svg></span> Netherlands</p>
+                    <p class="timeline-location">Netherlands</p>
                 </div>
             </div>
         </div>
