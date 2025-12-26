@@ -8,7 +8,6 @@
     float: right;
     width: 310px;
     margin: 0 0 1rem 2rem;
-    border-radius: 2px;
 }
 
 @media (max-width: 700px) {
@@ -27,7 +26,6 @@
             width: 100%;
             max-width: 280px;
             height: auto;
-            border-radius: 2px;
         }
         
         .figure-caption {
@@ -41,7 +39,6 @@
     float: left;
     width: 310px;
     margin: 0 2rem 1rem 0;
-    border-radius: 2px;
 }
 
 @media (max-width: 700px) {
@@ -60,7 +57,6 @@
             width: 100%;
             max-width: 280px;
             height: auto;
-            border-radius: 2px;
         }
         
         .figure-caption {
@@ -243,7 +239,6 @@ a.post-link {
     padding: 0.5rem 1rem;
     background: #f5f5f5;
     border: 1px solid #e0e0e0;
-    border-radius: 2px;
     text-decoration: none;
     transition: all 0.2s ease;
     
@@ -262,7 +257,6 @@ a.post-link {
     width: 60px;
     height: 60px;
     object-fit: cover;
-    border-radius: 2px;
     flex-shrink: 0;
 }
 
@@ -298,7 +292,6 @@ a.post-link {
     width: 96px;
     height: 128px;
     overflow: hidden;
-    border-radius: 2px;
     
     img {
         width: 100%;
@@ -394,7 +387,7 @@ a.post-link {
     display: flex;
     justify-content: space-evenly;
     padding: 0 1rem;
-    gap: 0.8rem;
+    gap: 1.5rem;
     
     a {
         color: #424242;
@@ -407,7 +400,6 @@ a.post-link {
         &:focus-visible {
             outline: 2px solid #8B1538;
             outline-offset: 2px;
-            border-radius: 2px;
         }
     }
 }
@@ -490,6 +482,10 @@ footer p {
 }
 
 @media (max-width: 600px) {
+    .site-nav {
+        gap: 0.5rem;
+    }
+
     .marks-page {
         h1 {
             text-align: center;
@@ -602,19 +598,16 @@ footer p {
         width: 175px;
         height: 215px;
         object-fit: cover;
-        border-radius: 2px;
     }
     
     .img-zoom {
         width: 175px;
         height: 215px;
         overflow: hidden;
-        border-radius: 2px;
         
         img {
             width: 100%;
             height: 100%;
-            border-radius: 0;
         }
     }
 }
@@ -749,7 +742,6 @@ a {
     &:focus-visible {
         outline: 2px solid #8B1538;
         outline-offset: 2px;
-        border-radius: 2px;
     }
 }
 
@@ -801,34 +793,30 @@ pre {
 
 .timeline-decade-nav {
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
-    gap: 0.5rem;
     margin-bottom: 1.25rem;
-    font-size: 0.8rem;
-    color: #555;
 }
 
-.timeline-decade-pill {
-    border: 1px solid #ddd;
-    border-radius: 999px;
-    padding: 0.25rem 0.75rem;
-    background: #fafafa;
-    font-size: 0.75rem;
-    letter-spacing: 0.05em;
-    color: #555;
-    cursor: pointer;
-    transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+.timeline-decade-link {
+    transition: color 0.2s ease;
+    text-decoration-style: dashed;
 
     &:hover {
-        background: #f0f0f0;
-        border-color: #ccc;
-        color: #222;
+        color: #8B1538;
     }
+    
+    &.is-active {
+        color: #8B1538;
+        font-weight: 600;
+        text-decoration-style: solid;
+    }
+}
 
-    &:focus-visible {
-        outline: 2px solid #8B1538;
-        outline-offset: 2px;
-    }
+.decade-count {
+    position: relative;
+    top: 0;
+    color: #8B1538;
 }
 
 .timeline-wrapper {
@@ -919,7 +907,7 @@ pre {
     flex: 0 0 auto;
     width: 1px;
     background: #ccc;
-    margin: 0 3rem 0 1rem;
+    margin: 0 2rem 0 1rem;
     align-self: stretch;
     min-height: 350px;
     position: relative;
@@ -935,11 +923,9 @@ pre {
         background: white;
         padding: 0.5rem 1rem;
         font-size: 0.8rem;
-        font-weight: 600;
-        letter-spacing: 0.1em;
+        letter-spacing: 0.05em;
         color: #8B1538;
         white-space: nowrap;
-        border-radius: 2px;
     }
 }
 
@@ -947,7 +933,7 @@ pre {
     flex: 0 0 auto;
     width: 240px;
     position: relative;
-    margin-right: 2rem;
+    margin-right: 1rem;
     scroll-snap-align: center;
     
     &:last-child {
@@ -978,7 +964,6 @@ pre {
 
 .timeline-card {
     border: none;
-    border-radius: 0;
     overflow: visible;
     height: 100%;
     display: flex;
@@ -993,14 +978,12 @@ pre {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
-    border-radius: 3px;
     background-color: #fafafa;
     
     img {
         width: 100%;
         height: 100%;
         object-fit: contain;
-        border-radius: 3px;
     }
     
     .timeline-image-placeholder {

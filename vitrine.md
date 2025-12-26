@@ -12,13 +12,13 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
 <p class="timeline-intro">A chronological timeline of vintage vases from my private collection, 1930s to 1990s. European ceramics and porcelain from makers including Val Saint Lambert, Rosenthal, Meissen, Hutschenreuther, and Scheurich.</p>
 
 <nav class="timeline-decade-nav" aria-label="Jump to decade">
-    <button type="button" class="timeline-decade-pill" data-decade-jump="1930">1930s</button>
-    <button type="button" class="timeline-decade-pill" data-decade-jump="1940">1940s</button>
-    <button type="button" class="timeline-decade-pill" data-decade-jump="1950">1950s</button>
-    <button type="button" class="timeline-decade-pill" data-decade-jump="1960">1960s</button>
-    <button type="button" class="timeline-decade-pill" data-decade-jump="1970">1970s</button>
-    <button type="button" class="timeline-decade-pill" data-decade-jump="1980">1980s</button>
-    <button type="button" class="timeline-decade-pill" data-decade-jump="1990">1990s</button>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1930">1930s</a> <span class="decade-count" data-decade="1930"></span></span>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1940">1940s</a> <span class="decade-count" data-decade="1940"></span></span>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1950">1950s</a> <span class="decade-count" data-decade="1950"></span></span>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1960">1960s</a> <span class="decade-count" data-decade="1960"></span></span>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1970">1970s</a> <span class="decade-count" data-decade="1970"></span></span>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1980">1980s</a> <span class="decade-count" data-decade="1980"></span></span>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1990">1990s</a> <span class="decade-count" data-decade="1990"></span></span>
 </nav>
 
 <div class="timeline-wrapper">
@@ -535,9 +535,9 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
 (function() {
     const container = document.querySelector('.timeline-container');
     const track = document.querySelector('.timeline-track');
-    const decadeButtons = document.querySelectorAll('.timeline-decade-pill[data-decade-jump]');
+    const decadeLinks = document.querySelectorAll('.timeline-decade-link[data-decade-jump]');
     const progressBar = document.querySelector('.timeline-progress-bar');
-    if (!container || !track || decadeButtons.length === 0) return;
+    if (!container || !track || decadeLinks.length === 0) return;
 
     function updateProgress() {
         if (!progressBar) return;
@@ -560,8 +560,70 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
         });
     }
 
-    decadeButtons.forEach(btn => {
-        btn.addEventListener('click', function() {
+    // Track visible items per decade
+    const visibleItems = new Map();
+    let updatePending = false;
+    
+    function updateActiveLinks() {
+        decadeLinks.forEach(link => {
+            const decade = link.getAttribute('data-decade-jump');
+            const count = visibleItems.get(decade) || 0;
+            if (count > 0) {
+                link.classList.add('is-active');
+            } else {
+                link.classList.remove('is-active');
+            }
+        });
+        updatePending = false;
+    }
+    
+    function scheduleUpdate() {
+        if (!updatePending) {
+            updatePending = true;
+            requestAnimationFrame(updateActiveLinks);
+        }
+    }
+    
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            const year = entry.target.getAttribute('data-year');
+            const decade = Math.floor(parseInt(year, 10) / 10) * 10 + '';
+            const current = visibleItems.get(decade) || 0;
+            
+            if (entry.isIntersecting) {
+                visibleItems.set(decade, current + 1);
+            } else {
+                visibleItems.set(decade, Math.max(0, current - 1));
+            }
+        });
+        scheduleUpdate();
+    }, {
+        root: container,
+        threshold: 0.1
+    });
+    
+    const items = track.querySelectorAll('.timeline-item[data-year]');
+    items.forEach(item => {
+        observer.observe(item);
+    });
+    
+    // Count items per decade and populate counts
+    const decadeCounts = new Map();
+    items.forEach(item => {
+        const year = item.getAttribute('data-year');
+        const decade = Math.floor(parseInt(year, 10) / 10) * 10 + '';
+        decadeCounts.set(decade, (decadeCounts.get(decade) || 0) + 1);
+    });
+    
+    document.querySelectorAll('.decade-count[data-decade]').forEach(span => {
+        const decade = span.getAttribute('data-decade');
+        const count = decadeCounts.get(decade) || 0;
+        span.innerHTML = '(\u200a' + count + '\u200a)';
+    });
+
+    decadeLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
             const decade = this.getAttribute('data-decade-jump');
             let target = null;
 
