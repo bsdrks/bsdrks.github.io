@@ -47,7 +47,7 @@ image: /assets/images/meissen-vase-mark.webp
 ARABIA
 MADE IN FINLAND
 Handpainted</pre>
-        <p class="mark-year">Production period: <a target="_blank" rel="noopener" href="https://collections.vam.ac.uk/item/O167711/windflower-plate-osol-olga/"><time datetime="1956"><span class="number-spaced">1956</span></time>&ndash;<time datetime="1966"><span class="number-spaced">1966</span></time></a></p>
+        <p class="mark-year">Production period: <a target="_blank" rel="noopener" href="https://collections.vam.ac.uk/item/O167711/windflower-plate-osol-olga/"><time datetime="1956"><span class="number-spaced">1956</span></time>&ndash;<time datetime="1966"><span class="number-spaced">1966</span></time><sup>◳</sup></a></p>
     </div>
 </article>
 
@@ -114,7 +114,7 @@ Japan</pre>
 NORWAY
 V&emsp;V555
 Bekkeblom</pre>
-        <p class="mark-year">Production period: <cite><a target="_blank" rel="noopener" href="https://www.jaermuseet.no/samlingar/wp-content/uploads/sites/16/2016/04/2012.3-Rolf-Fr%C3%B8yland-danser-polka-p%C3%A5-11-mm.pdf"><time datetime="1979"><span class="number-spaced">1979</span></time>&ndash;<time datetime="1985"><span class="number-spaced">1985</span></time></a></cite></p>
+        <p class="mark-year">Production period: <cite><a target="_blank" rel="noopener" href="https://www.jaermuseet.no/samlingar/wp-content/uploads/sites/16/2016/04/2012.3-Rolf-Fr%C3%B8yland-danser-polka-p%C3%A5-11-mm.pdf"><time datetime="1979"><span class="number-spaced">1979</span></time>&ndash;<time datetime="1985"><span class="number-spaced">1985</span></time><sup>◳</sup></a></cite></p>
     </div>
 </article>
 
@@ -356,7 +356,7 @@ PORTUGAL</pre>
         <pre class="mark-text">Rosenthal
 SELB-BAVARIA
 DONATELLO</pre>
-        <p class="mark-year">Mark period: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1922"><span class="number-spaced">1922</span></time>&ndash;<time datetime="1933"><span class="number-spaced">1933</span></time></a></cite></p>
+        <p class="mark-year">Mark period: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1922"><span class="number-spaced">1922</span></time>&ndash;<time datetime="1933"><span class="number-spaced">1933</span></time><sup>◳</sup></a></cite></p>
     </div>
 </article>
 
@@ -375,7 +375,7 @@ DONATELLO</pre>
         <pre class="mark-text">Rosenthal
 SELB-GERMANY
 Cattleya</pre>
-        <p class="mark-year">Mark year: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1941"><span class="number-spaced">1941</span></time></a></cite></p>
+        <p class="mark-year">Mark year: <cite><a target="_blank" rel="noopener" href="https://www.collectrosenthal.com/markingsdate.html"><time datetime="1941"><span class="number-spaced">1941</span></time><sup>◳</sup></a></cite></p>
     </div>
 </article>
 
@@ -394,7 +394,7 @@ Cattleya</pre>
         <pre class="mark-text">Rosenthal
 studio-linie
 GERMANY</pre>
-        <p class="mark-year">Studio-linie mark period: <a target="_blank" rel="noopener" href="https://www.rosenthal.de/en-de/fascination-of-rosenthal/history.html"><time datetime="1961"><span class="number-spaced">1961</span></time>–present</a></p>
+        <p class="mark-year">Studio-linie mark period: <a target="_blank" rel="noopener" href="https://www.rosenthal.de/en-de/fascination-of-rosenthal/history.html"><time datetime="1961"><span class="number-spaced">1961</span></time>–present<sup>◳</sup></a></p>
     </div>
 </article>
 

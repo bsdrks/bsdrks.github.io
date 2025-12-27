@@ -255,6 +255,19 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
             </div>
         </div>
 
+        <div class="timeline-item" data-year="1950">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/delft-style-vase-1950s.jpg" alt="Delft-style vase with hand-painted cosmos flowers" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Delft-style</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1950</span>s</p>
+                    <p class="timeline-location">Netherlands</p>
+                </div>
+            </div>
+        </div>
+
         <!-- 1960s -->
         <div class="timeline-decade-separator" data-decade="1960">
             <span class="timeline-decade-label">1960s</span>
@@ -499,6 +512,32 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                     <p class="timeline-maker">Studio pottery</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
                     <p class="timeline-location">Western Europe</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1980">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/dutch-studio-pottery-vase-1980s.jpeg" alt="Dutch studio pottery vase in brown-ochre two-tone glaze" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Studio pottery</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
+                    <p class="timeline-location">Netherlands</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1980">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/blue-cased-glass-vase-1980s.jpg" alt="Blue cased glass vase with white interior" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Opaline glass</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1980</span>-<span class="number-spaced">1990</span>s</p>
+                    <p class="timeline-location">Europe</p>
                 </div>
             </div>
         </div>
