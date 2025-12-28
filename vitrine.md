@@ -19,6 +19,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
     <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1970">1970s</a> <span class="decade-count" data-decade="1970"></span></span>
     <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1980">1980s</a> <span class="decade-count" data-decade="1980"></span></span>
     <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1990">1990s</a> <span class="decade-count" data-decade="1990"></span></span>
+    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="2000">2000s</a> <span class="decade-count" data-decade="2000"></span></span>
 </nav>
 
 <div class="timeline-wrapper">
@@ -542,6 +543,32 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
             </div>
         </div>
 
+        <div class="timeline-item" data-year="1980">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/royal-granite-vase-large-1980s.jpg" alt="Royal granite-glazed urn vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Royal (&hairsp;NL&hairsp;)</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
+                    <p class="timeline-location">Netherlands</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1980">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/royal-granite-vase-small-1980s.jpg" alt="Royal granite-glazed ball vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Royal (&hairsp;NL&hairsp;)</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
+                    <p class="timeline-location">Netherlands</p>
+                </div>
+            </div>
+        </div>
+
         <!-- 1990s -->
         <div class="timeline-decade-separator" data-decade="1990">
             <span class="timeline-decade-label">1990s</span>
@@ -555,6 +582,36 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                     <p class="timeline-maker">Hanneke Blom</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1990</span></p>
                     <p class="timeline-location">Netherlands</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1997">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/c-sala-mexican-vase-1997.jpg" alt="C. Sala Mexican folk pottery vase with sunflowers" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">C. Sala</p>
+                    <p class="timeline-date"><span class="number-spaced">1997</span></p>
+                    <p class="timeline-location">Mexico</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2000s -->
+        <div class="timeline-decade-separator" data-decade="2000">
+            <span class="timeline-decade-label">2000s</span>
+        </div>
+        <div class="timeline-item" data-year="2000">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/scheurich-559-19-2000s.jpg" alt="Scheurich 559-19 lime green ombré vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Scheurich <span class="number-spaced">559</span>-<span class="number-spaced">19</span></p>
+                    <p class="timeline-date">ca. <span class="number-spaced">2000</span>s-<span class="number-spaced">2010</span>s</p>
+                    <p class="timeline-location">Germany</p>
                 </div>
             </div>
         </div>
