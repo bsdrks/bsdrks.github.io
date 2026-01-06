@@ -192,9 +192,15 @@ article {
 }
 
 a.post-link {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    font-weight: 600;
     font-family: "TASA Orbiter", sans-serif;
     color: #222;
+}
+
+.site-nav a {
+    font-size: 0.9rem;
+    font-weight: 600;
 }
 
 // Homepage intro
@@ -457,6 +463,7 @@ footer p {
 
 .site-title {
     color: #8B1538;
+    font-weight: 600;
     font-size: 1.1em;
     text-transform: uppercase;
     letter-spacing: 0.03em;
@@ -793,7 +800,8 @@ pre {
 
 .timeline-decade-nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: start;
+    gap: 1rem;
     flex-wrap: wrap;
     margin-bottom: 1.25rem;
 }
@@ -812,12 +820,6 @@ pre {
         font-weight: 600;
         text-decoration-style: solid;
     }
-}
-
-.decade-count {
-    position: relative;
-    top: 0;
-    color: #8B1538;
 }
 
 .timeline-wrapper {
@@ -950,7 +952,6 @@ pre {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
-    border: 1px solid #777;
     border-radius: 2px;
     
     img {
@@ -1033,4 +1034,10 @@ body {
 .marks-toc strong,
 p.mark-year {
     color: #555;
+}
+
+@media (max-width: 700px) {
+    .timeline-decade-nav {
+        display: none;
+    }
 }

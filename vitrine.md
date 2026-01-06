@@ -12,14 +12,14 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
 <p class="timeline-intro">A chronological timeline of vintage vases from my private collection, 1930s to 1990s. European ceramics and porcelain from makers including Val Saint Lambert, Rosenthal, Meissen, Hutschenreuther, and Scheurich.</p>
 
 <nav class="timeline-decade-nav" aria-label="Jump to decade">
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1930">1930s</a> <span class="decade-count" data-decade="1930"></span></span>
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1940">1940s</a> <span class="decade-count" data-decade="1940"></span></span>
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1950">1950s</a> <span class="decade-count" data-decade="1950"></span></span>
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1960">1960s</a> <span class="decade-count" data-decade="1960"></span></span>
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1970">1970s</a> <span class="decade-count" data-decade="1970"></span></span>
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1980">1980s</a> <span class="decade-count" data-decade="1980"></span></span>
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="1990">1990s</a> <span class="decade-count" data-decade="1990"></span></span>
-    <span class="decade-item"><a href="#" class="timeline-decade-link" data-decade-jump="2000">2000s</a> <span class="decade-count" data-decade="2000"></span></span>
+    <a href="#" class="timeline-decade-link" data-decade-jump="1930">1930s</a>
+    <a href="#" class="timeline-decade-link" data-decade-jump="1940">1940s</a>
+    <a href="#" class="timeline-decade-link" data-decade-jump="1950">1950s</a>
+    <a href="#" class="timeline-decade-link" data-decade-jump="1960">1960s</a>
+    <a href="#" class="timeline-decade-link" data-decade-jump="1970">1970s</a>
+    <a href="#" class="timeline-decade-link" data-decade-jump="1980">1980s</a>
+    <a href="#" class="timeline-decade-link" data-decade-jump="1990">1990s</a>
+    <a href="#" class="timeline-decade-link" data-decade-jump="2000">2000s</a>
 </nav>
 
 <div class="timeline-wrapper">
@@ -101,6 +101,19 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                     <p class="timeline-maker">Satsuma</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1930</span>s</p>
                     <p class="timeline-location">Japan</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-year="1930">
+            <div class="timeline-card">
+                <div class="timeline-image">
+                    <img src="/assets/images/wunsiedel-rococo-vase-1930s.jpg" alt="Wunsiedel rococo revival vase" loading="lazy">
+                </div>
+                <div class="timeline-content">
+                    <p class="timeline-maker">Wunsiedel</p>
+                    <p class="timeline-date">ca. <span class="number-spaced">1930</span>-<span class="number-spaced">1950</span>s</p>
+                    <p class="timeline-location">Germany</p>
                 </div>
             </div>
         </div>
@@ -549,7 +562,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                     <img src="/assets/images/royal-granite-vase-large-1980s.jpg" alt="Royal granite-glazed urn vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Royal (&hairsp;NL&hairsp;)</p>
+                    <p class="timeline-maker">Royal</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
                     <p class="timeline-location">Netherlands</p>
                 </div>
@@ -562,7 +575,7 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
                     <img src="/assets/images/royal-granite-vase-small-1980s.jpg" alt="Royal granite-glazed ball vase" loading="lazy">
                 </div>
                 <div class="timeline-content">
-                    <p class="timeline-maker">Royal (&hairsp;NL&hairsp;)</p>
+                    <p class="timeline-maker">Royal</p>
                     <p class="timeline-date">ca. <span class="number-spaced">1980</span>s</p>
                     <p class="timeline-location">Netherlands</p>
                 </div>
@@ -703,20 +716,6 @@ image: /assets/images/val-saint-lambert-amber-vase.jpeg
         observer.observe(item);
     });
     
-    // Count items per decade and populate counts
-    const decadeCounts = new Map();
-    items.forEach(item => {
-        const year = item.getAttribute('data-year');
-        const decade = Math.floor(parseInt(year, 10) / 10) * 10 + '';
-        decadeCounts.set(decade, (decadeCounts.get(decade) || 0) + 1);
-    });
-    
-    document.querySelectorAll('.decade-count[data-decade]').forEach(span => {
-        const decade = span.getAttribute('data-decade');
-        const count = decadeCounts.get(decade) || 0;
-        span.innerHTML = '(\u200a' + count + '\u200a)';
-    });
-
     decadeLinks.forEach(link => {
         link.addEventListener('click', function(e) {
             e.preventDefault();
